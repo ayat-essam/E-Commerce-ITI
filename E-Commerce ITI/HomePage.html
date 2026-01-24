@@ -1,0 +1,187 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fashion E-Commerce</title>
+    <link href="HomePage.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">      
+   
+</head>
+<body>
+    <nav>
+        <div class="navbar">
+            <div class="logo">FashionHub</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#women">Women</a></li>
+                <li><a href="#men">Men</a></li>
+                <li><a href="#kids">Kids</a></li>
+            </ul>
+            <div class="right-section">
+                <div class="profile-dropdown" id="profile-section">
+                    <i class="fas fa-user icon" id="profile-icon"></i>
+                    <div class="dropdown-content">
+                        <a href="#" id="orders-link">Orders</a>
+                        <a href="#" id="wishlist-link">Wishlist (<span id="wishlist-count">0</span>)</a>
+                        <a href="#" id="logout">Logout</a>
+                    </div>
+                </div>
+                <i class="fas fa-shopping-cart icon" id="cart-icon"><span class="cart-counter" id="cart-counter">0</span></i>
+                <i class="fas fa-heart icon" id="wishlist-icon"><span class="wishlist-counter" id="wishlist-counter">0</span></i>
+                <i class="fas fa-moon icon" id="dark-mode-toggle"></i>
+            </div>
+            <div class="hamburger" id="hamburger"><i class="fas fa-bars"></i></div>
+        </div>
+        <div class="sidebar" id="sidebar">
+            <div class="close-btn" id="close-sidebar"><i class="fas fa-times"></i></div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#women">Women</a></li>
+                <li><a href="#men">Men</a></li>
+                <li><a href="#kids">Kids</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="slider">
+            <div class="slide"></div>
+            <div class="slide"></div>
+            <div class="slide"></div>
+        </div>
+        <div class="hero-overlay">
+            <h1>Summer Collection 2026</h1>
+            <p>Discover the latest trends in fashion</p>
+            <a href="#women" class="btn">Shop Women</a>
+            <a href="#men" class="btn">Shop Men</a>
+        </div>
+    </section>
+
+    <section class="categories">
+        <div class="container">
+            <h2>Shop by Category</h2>
+            <div class="category-grid">
+                <div class="category-card">
+                    <img src="images/womanShopping.jpg" alt="Women">
+                    <a href="#women" class="btn">Shop Women</a>
+                </div>
+                <div class="category-card">
+                    <img src="images/menShop.jpg" alt="Men">
+                    <a href="#men" class="btn">Shop Men</a>
+                </div>
+                <div class="category-card">
+                    <img src="images/kids1.jpg" alt="Kids">
+                    <a href="#kids" class="btn">Shop Kids</a>
+                </div>
+                <div class="category-card">
+                    <img src="images/accssories.jpg" alt="Accessories">
+                    <a href="#accessories" class="btn">Shop Accessories</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bestsellers">
+        <div class="container">
+            <h2>Bestsellers</h2>
+            <div class="product-grid">
+                <div class="product-card">
+                    <div class="wishlist-icon" data-product="1">
+                        <i class="far fa-heart"></i>
+                    </div>
+                    <img src="images/summerDress.jpg" alt="Product 1">
+                    <div class="product-info">
+                        <h3>Summer Dress</h3>
+                        <div class="rating">★★★★★</div>
+                        <p>$49.99</p>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="wishlist-icon" data-product="2">
+                        <i class="far fa-heart"></i>
+                    </div>
+                    <img src="images/casualShirt2.jpg" alt="Product 2">
+                    <div class="product-info">
+                        <h3>Casual Shirt</h3>
+                        <div class="rating">★★★★☆</div>
+                        <p>$29.99</p>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="wishlist-icon" data-product="3">
+                        <i class="far fa-heart"></i>
+                    </div>
+                    <img src="images/Denim Jeans2.jpg" alt="Product 3">
+                    <div class="product-info">
+                        <h3>Denim Jeans</h3>
+                        <div class="rating">★★★★★</div>
+                        <p>$59.99</p>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="wishlist-icon" data-product="4">
+                        <i class="far fa-heart"></i>
+                    </div>
+                    <img src="images/Running Sneakers.jpg" alt="Product 4">
+                    <div class="product-info">
+                        <h3>Running Sneakers</h3>
+                        <div class="rating">★★★★☆</div>
+                        <p>$79.99</p>
+                        <button class="add-to-cart">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+            <button class="view-all" id="view-all">View All Products</button>
+        </div>
+    </section>
+
+    <!-- Promotional Banner -->
+    <section class="promo-banner">
+        <div class="container">
+            <p>SUMMER SALE: UP TO 50% OFF</p>
+            <a href="#sale" class="btn">Shop Sale Now</a>
+        </div>
+    </section>
+
+    <section class="newsletter">
+        <div class="container">
+            <h2>Stay Updated</h2>
+            <p>Subscribe to our newsletter for exclusive offers and fashion tips</p>
+            <input type="email" id="newsletter-email" placeholder="Enter your email">
+            <button class="btn" id="subscribe-btn">Subscribe</button>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
+                <a href="#faq">FAQ</a>
+                <a href="#shipping">Shipping & Returns</a>
+                <a href="#privacy">Privacy Policy</a>
+            </div>
+            <div class="social-icons">
+                <i class="fab fa-facebook icon"></i>
+                <i class="fab fa-instagram icon"></i>
+                <i class="fab fa-twitter icon"></i>
+                <i class="fab fa-pinterest icon"></i>
+            </div>
+            <div class="payment-icons">
+                <i class="fab fa-cc-visa icon"></i>
+                <i class="fab fa-cc-mastercard icon"></i>
+                <i class="fab fa-cc-paypal icon"></i>
+                <i class="fab fa-cc-apple-pay icon"></i>
+            </div>
+            <p>&copy; 2024 FashionHub. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="HomePage.js"></script>
+   </body>
+</html>
