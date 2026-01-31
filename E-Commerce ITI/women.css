@@ -1,0 +1,194 @@
+.main-content {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.category-header {
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+        url('https://source.unsplash.com/1200x400/?fashion,women,model');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 80px 0;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+}
+
+.category-header h1 {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+
+.filters-sidebar {
+    width: 260px;
+    flex-shrink: 0;
+    background: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    height: fit-content;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    position: sticky;
+    top: 100px;
+}
+
+body.dark-mode .filters-sidebar {
+    background-color: #343a40;
+    color: #f8f9fa;
+}
+
+.filters-sidebar h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+
+.filter-group {
+    margin-bottom: 25px;
+}
+
+.filter-group h4 {
+    font-size: 16px;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+.filter-group label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: color 0.2s;
+}
+
+.filter-group label:hover {
+    color: #007bff;
+}
+
+
+.size-options {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.size-options button {
+    padding: 8px 12px;
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.size-options button:hover,
+.size-options button.active {
+    background: #007bff;
+    color: #fff;
+    border-color: #007bff;
+}
+
+
+.catalog {
+    flex-grow: 1;
+}
+
+.catalog-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    padding: 10px 0;
+}
+
+#sort-by {
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-family: 'Inter', sans-serif;
+    outline: none;
+}
+
+footer {
+    background-color: #343a40;
+    color: #f8f9fa;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-links a {
+    color: #f8f9fa;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #007bff;
+}
+
+.social-icons {
+    margin-bottom: 20px;
+}
+
+.social-icons .icon {
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+.payment-icons {
+    margin-bottom: 20px;
+}
+
+.payment-icons .icon {
+    font-size: 30px;
+    margin: 0 5px;
+}
+
+
+@media (max-width: 992px) {
+    .main-content {
+        flex-direction: column;
+    }
+
+    .filters-sidebar {
+        width: 100%;
+        position: static;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+    }
+
+    .footer-links {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+
+
+.wishlist-icon i.fa-trash:hover {
+    color: #000;
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+
+#wishlist-container h2 {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 50px;
+    color: #666;
+}

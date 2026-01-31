@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Wishlist | FashionHub</title>
+    <link href="HomePage.css" rel="stylesheet" />
+    <link href="women.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+
+<body>
+    <nav>
+        <div class="navbar">
+            <div class="logo">FashionHub</div>
+            <ul class="nav-links">
+                <li><a href="HomePage.html">Home</a></li>
+                <li><a href="woman.html" class="active">Women</a></li>
+                <li><a href="men.html">Men</a></li>
+                <li><a href="kids.html">Kids</a></li>
+            </ul>
+            <div class="right-section">
+                <i class="fas fa-user icon"></i>
+                <i class="fas fa-shopping-cart icon" onclick="goToCart()"><span class="cart-counter"
+                        id="cart-counter">0</span></i>
+                <i class="fas fa-heart icon" onclick="goToWishlist()"><span class="wishlist-counter"
+                        id="wishlist-counter">0</span></i>
+                <i class="fas fa-moon icon" id="dark-mode-toggle"></i>
+            </div>
+        </div>
+    </nav>
+
+    <header class="category-header"
+        style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1200')">
+        <div class="container">
+            <h1>My Wishlist</h1>
+            <p>Your favorite pieces, all in one place.</p>
+        </div>
+    </header>
+
+    <div class="container main-content">
+        <aside class="filters-sidebar">
+            <h3>Wishlist Info</h3>
+            <p>Items stay here until you remove them.</p>
+        </aside>
+
+        <main class="catalog">
+            <div class="product-grid" id="wishlist-container">
+            </div>
+        </main>
+    </div>
+
+
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
+                <a href="#faq">FAQ</a>
+                <a href="#shipping">Shipping & Returns</a>
+                <a href="#privacy">Privacy Policy</a>
+            </div>
+            <div class="social-icons">
+                <i class="fab fa-facebook icon"></i>
+                <i class="fab fa-instagram icon"></i>
+                <i class="fab fa-twitter icon"></i>
+                <i class="fab fa-pinterest icon"></i>
+            </div>
+            <div class="payment-icons">
+                <i class="fab fa-cc-visa icon"></i>
+                <i class="fab fa-cc-mastercard icon"></i>
+                <i class="fab fa-cc-paypal icon"></i>
+                <i class="fab fa-cc-apple-pay icon"></i>
+            </div>
+            <p>&copy; 2024 FashionHub. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="wishlist.js"> </script>
+</body>
+
+</html>
