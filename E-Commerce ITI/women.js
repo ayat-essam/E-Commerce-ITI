@@ -103,6 +103,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 });
 
+/////////////////
 
 function goToWishlist() {
     window.location.href = "wishlist.html";
