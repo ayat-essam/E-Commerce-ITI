@@ -1,43 +1,147 @@
 document.addEventListener('DOMContentLoaded', function () {
+    loadWishlistData();
+});
+
+const cartNum = document.getElementById('cart-counter');
+const wishNum = document.getElementById('wishlist-counter');
+
+function updateNavbarCounters() {
+    const xhrWish = new XMLHttpRequest();
+    xhrWish.open('GET', 'http://localhost:3000/wishlist/', true);
+    xhrWish.onreadystatechange = function () {
+        if (xhrWish.readyState === 4 && xhrWish.status === 200) {
+            const wishlist = JSON.parse(xhrWish.responseText);
+            if (wishNum) wishNum.innerText = wishlist.length;
+        }
+    };
+    xhrWish.send();
+
+    const xhrCart = new XMLHttpRequest();
+    xhrCart.open('GET', 'http://localhost:3000/cart/', true);
+    xhrCart.onreadystatechange = function () {
+        if (xhrCart.readyState === 4 && xhrCart.status === 200) {
+            const cart = JSON.parse(xhrCart.responseText);
+            if (cartNum) cartNum.innerText = cart.reduce((sum, item) => sum + (item.quantity || 1), 0);
+        }
+    };
+    xhrCart.send();
+}
+
+updateNavbarCounters();
+
+function loadWishlistData() {
     const container = document.getElementById('wishlist-container');
-    const wishlist = JSON.parse(localStorage.getItem('userWishlist')) || [];
 
-    if (wishlist.length === 0) {
-        container.innerHTML = "<h2>Your wishlist is empty!</h2>";
-        return;
-    }
+    const xhr = new XMLHttpRequest();
+    xhr.open('GET', 'http://localhost:3000/wishlist/', true);
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            const wishlist = JSON.parse(xhr.responseText);
 
-    wishlist.forEach((item, index) => {
-        const card = document.createElement('div');
-        card.className = 'product-card';
-        card.innerHTML = `
-                    <div class="wishlist-icon" style="color: red;" onclick="removeFromWishlist('${item.name}')">
+            container.innerHTML = "";
+
+            if (wishlist.length === 0) {
+                container.innerHTML = "<h2>Your wishlist is empty!</h2>";
+                return;
+            }
+
+            wishlist.forEach((item) => {
+                const card = document.createElement('div');
+                card.className = 'product-card';
+                card.innerHTML = `
+                    <div class="wishlist-icon" style="color: red;" onclick="removeFromWishlist('${item.id}')">
                         <i class="fas fa-trash"></i>
                     </div>
-                    <img src="${item.image}" alt="${item.name}">
+                    <img src="${item.image || 'default-image.jpg'}" alt="${item.name}">
                     <div class="product-info">
                         <h3>${item.name}</h3>
-                        <div class="rating">${item.rating}</div>
+                        <div class="rating">★★★★★</div>
                         <p>${item.price}</p>
                         <button class="add-to-cart">Add to Cart</button>
                     </div>
                 `;
-        container.appendChild(card);
-    });
-});
 
-function removeFromWishlist(name) {
-    let wishlist = JSON.parse(localStorage.getItem('userWishlist')) || [];
-    wishlist = wishlist.filter(item => item.name !== name);
-    localStorage.setItem('userWishlist', JSON.stringify(wishlist));
-    location.reload();
+                card.querySelector('.add-to-cart').onclick = function () {
+                    addToCartFromWishlist(item);
+                };
+
+                container.appendChild(card);
+            });
+        }
+    };
+    xhr.send();
 }
 
-function goToWishlist() {
-    window.location.href = "wishlist.html";
+function addToCartFromWishlist(item) {
+    if (!item.numericPrice && item.price) {
+        item.numericPrice = parseFloat(item.price.replace('$', ''));
+    }
+
+    const xhrGetCart = new XMLHttpRequest();
+    xhrGetCart.open('GET', 'http://localhost:3000/cart/', true);
+    xhrGetCart.onreadystatechange = function () {
+        if (xhrGetCart.readyState === 4 && xhrGetCart.status === 200) {
+            const cart = JSON.parse(xhrGetCart.responseText);
+            const existingItem = cart.find(cartItem => cartItem.id === item.id);
+
+            if (existingItem) {
+                const xhrUpdate = new XMLHttpRequest();
+                xhrUpdate.open('PATCH', `http://localhost:3000/cart/${existingItem.id}`, true);
+                xhrUpdate.setRequestHeader('Content-Type', 'application/json');
+                xhrUpdate.onreadystatechange = function () {
+                    if (xhrUpdate.readyState === 4 && xhrUpdate.status === 200) {
+                        updateNavbarCounters();
+                        alert(`${item.name} quantity is now ${existingItem.quantity + 1}!`);
+                    }
+                };
+                xhrUpdate.send(JSON.stringify({ quantity: existingItem.quantity + 1 }));
+            } else {
+                const itemToAdd = { ...item, quantity: 1 };
+                const xhrAdd = new XMLHttpRequest();
+                xhrAdd.open('POST', 'http://localhost:3000/cart/', true);
+                xhrAdd.setRequestHeader('Content-Type', 'application/json');
+                xhrAdd.onreadystatechange = function () {
+                    if (xhrAdd.readyState === 4 && xhrAdd.status === 200) {
+                        updateNavbarCounters();
+                        alert(`${item.name} added to cart (quantity: 1)!`);
+                    }
+                };
+                xhrAdd.send(JSON.stringify(itemToAdd));
+            }
+        }
+    };
+    xhrGetCart.send();
+}
+
+function removeFromWishlist(id) {
+    const xhr = new XMLHttpRequest();
+    xhr.open('DELETE', 'http://localhost:3000/wishlist/' + id, true);
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            const updatedWishlist = JSON.parse(xhr.responseText);
+
+            if (wishNum) wishNum.innerText = updatedWishlist.length;
+
+            loadWishlistData();
+        }
+    };
+    xhr.send();
 }
 
 function goToCart() {
-    window.location.href = "cart.html";
+    window.location.href = 'cart.html';
+}
 
+function goToWishlist() {
+    window.location.href = 'wishlist.html';
+}
+
+const cartIcon = document.querySelector('.fa-shopping-cart.icon');
+if (cartIcon) {
+    cartIcon.addEventListener('click', goToCart);
+}
+
+const wishlistIcon = document.querySelector('.fa-heart.icon');
+if (wishlistIcon) {
+    wishlistIcon.addEventListener('click', goToWishlist);
 }

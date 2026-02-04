@@ -16,15 +16,17 @@
         <div class="navbar">
             <div class="logo">FashionHub</div>
             <ul class="nav-links">
-                <li><a href="../html/HomePage.html">Home</a></li>
-                <li><a href="../html/woman.html">Women</a></li>
-                <li><a href="../html/men.html">Men</a></li>
-                <li><a href="../html/kids.html" class="active">Kids</a></li>
+                <li><a href="HomePage.html">Home</a></li>
+                <li><a href="woman.html">Women</a></li>
+                <li><a href="men.html">Men</a></li>
+                <li><a href="kids.html" class="active">Kids</a></li>
             </ul>
             <div class="right-section">
                 <i class="fas fa-user icon"></i>
-                <i class="fas fa-shopping-cart icon"><span class="cart-counter" id="cart-counter">0</span></i>
-                <i class="fas fa-heart icon"><span class="wishlist-counter" id="wishlist-counter">0</span></i>
+                <i class="fas fa-shopping-cart icon" onclick="goToCart()"><span class="cart-counter"
+                        id="cart-counter">0</span></i>
+                <i class="fas fa-heart icon" onclick="goToWishlist()"><span class="wishlist-counter"
+                        id="wishlist-counter">0</span></i>
                 <i class="fas fa-moon icon" id="dark-mode-toggle"></i>
             </div>
         </div>
@@ -38,28 +40,6 @@
     </header>
 
     <div class="container main-content">
-        <aside class="filters-sidebar">
-            <h3>Filters</h3>
-            <div class="filter-group">
-                <h4>Category</h4>
-                <label><input type="checkbox"> Dresses</label>
-                <label><input type="checkbox"> Tops & Tees</label>
-                <label><input type="checkbox"> Jeans</label>
-                <label><input type="checkbox"> Outerwear</label>
-            </div>
-            <div class="filter-group">
-                <h4>Price Range</h4>
-                <input type="range" min="0" max="500">
-                <p>$0 - $500</p>
-            </div>
-            <div class="filter-group">
-                <h4>Size</h4>
-                <div class="size-options">
-                    <button>XS</button><button>S</button><button>M</button><button>L</button><button>XL</button>
-                </div>
-            </div>
-        </aside>
-
         <main class="catalog">
             <div class="catalog-controls">
                 <span>Showing 1-12 of 48 products</span>
@@ -70,94 +50,7 @@
                 </select>
             </div>
 
-            <div class="product-grid">
-                <div class="product-card">
-                    <div class="wishlist-icon"><i class="far fa-heart"></i></div>
-                    <img src="../images/summerDress.jpg" alt="Summer Dress">
-                    <div class="product-info">
-                        <h3>Floral Summer Dress</h3>
-                        <div class="rating">★★★★★</div>
-                        <p>$49.99</p>
-                        <button class="add-to-cart">Add to Cart</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="wishlist-icon"><i class="far fa-heart"></i></div>
-                    <img src="../images/womenBlazer.jpg" alt="Blazer">
-                    <div class="product-info">
-                        <h3>Professional Blazer</h3>
-                        <div class="rating">★★★★☆</div>
-                        <p>$85.00</p>
-                        <button class="add-to-cart">Add to Cart</button>
-                    </div>
-                </div>
-                <div class="product-card">
-                    <div class="wishlist-icon"><i class="far fa-heart"></i></div>
-                    <img src="https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=500" alt="Leather Handbag">
-                    <div class="product-info">
-                        <h3>Classic Leather Handbag</h3>
-                        <div class="rating">★★★★★</div>
-                        <p>$120.00</p>
-                        <button class="add-to-cart">Add to Cart</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="wishlist-icon"><i class="far fa-heart"></i></div>
-                    <img src="https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500" alt="High Heels">
-                    <div class="product-info">
-                        <h3>Elegant Blue Heels</h3>
-                        <div class="rating">★★★★☆</div>
-                        <p>$89.99</p>
-                        <button class="add-to-cart">Add to Cart</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="wishlist-icon"><i class="far fa-heart"></i></div>
-                    <img src="https://images.unsplash.com/photo-1511499767390-a73359580bf8?w=500" alt="Sunglasses">
-                    <div class="product-info">
-                        <h3>Designer Sunglasses</h3>
-                        <div class="rating">★★★★★</div>
-                        <p>$55.00</p>
-                        <button class="add-to-cart">Add to Cart</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="wishlist-icon"><i class="far fa-heart"></i></div>
-                    <img src="https://images.unsplash.com/photo-1539533113208-f6df8cc8b543?w=500" alt="Winter Coat">
-                    <div class="product-info">
-                        <h3>Wool Winter Coat</h3>
-                        <div class="rating">★★★★☆</div>
-                        <p>$199.00</p>
-                        <button class="add-to-cart">Add to Cart</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="wishlist-icon"><i class="far fa-heart"></i></div>
-                    <img src="https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500" alt="Skinny Jeans">
-                    <div class="product-info">
-                        <h3>High-Waisted Skinny Jeans</h3>
-                        <div class="rating">★★★★★</div>
-                        <p>$65.00</p>
-                        <button class="add-to-cart">Add to Cart</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="wishlist-icon"><i class="far fa-heart"></i></div>
-                    <img src="https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=500" alt="Watch">
-                    <div class="product-info">
-                        <h3>Luxury Rose Gold Watch</h3>
-                        <div class="rating">★★★★★</div>
-                        <p>$150.00</p>
-                        <button class="add-to-cart">Add to Cart</button>
-                    </div>
-                </div>
-
+            <div class="product-grid" id="product-grid">
             </div>
         </main>
     </div>
@@ -199,7 +92,7 @@
                 <i class="fab fa-cc-paypal icon"></i>
                 <i class="fab fa-cc-apple-pay icon"></i>
             </div>
-            <p>&copy; 2026 FashionHub. All rights reserved.</p>
+            <p>&copy; 2024 FashionHub. All rights reserved.</p>
         </div>
     </footer>
     <script src="../js/women.js"></script>

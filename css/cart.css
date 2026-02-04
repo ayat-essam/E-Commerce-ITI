@@ -6,6 +6,11 @@
     justify-content: center;
 }
 
+#cart-container {
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+}
+
 .category-header {
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
         url('https://source.unsplash.com/1200x400/?fashion,women,model');
@@ -97,14 +102,6 @@ body.dark-mode .filters-sidebar {
 }
 
 
-.catalog {
-    /* flex-grow: 1; */
-    display: grid;
-}
-
-#wishlist-container .add-to-cart {
-    opacity: 1;
-}
 
 .catalog-controls {
     display: flex;
