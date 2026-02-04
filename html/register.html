@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register in Our Website</title>
+    <link rel="stylesheet" href="../css/auth.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <img src="../images/logo.png" alt="LamaLogo">
+            <button><a href="../html/login.html" class="loginBtn">Login</a></button>
+        </nav>
+    </header>
+
+    <main class="main">
+        <form onsubmit="submitForm(event)">
+            <h1>Create Account</h1>
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" name="name" id="name" placeholder="Enter Your Name">
+                <small id="name-error"><svg width="16px" height="16px" viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg" fill="none" stroke="red">
+                        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                        <g id="SVGRepo_iconCarrier">
+                            <circle cx="12" cy="12" r="9" stroke="#00000" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="2"></circle>
+                            <path stroke="#00000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M12 8v5m0 3v0"></path>
+                        </g>
+                    </svg> Name must be at least 3 characters</small>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email" placeholder="Enter Your Email">
+                <small id="email-error"><svg width="16px" height="16px" viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg" fill="none" stroke="red">
+                        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                        <g id="SVGRepo_iconCarrier">
+                            <circle cx="12" cy="12" r="9" stroke="#00000" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="2"></circle>
+                            <path stroke="#00000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M12 8v5m0 3v0"></path>
+                        </g>
+                    </svg> Please enter a valid email address</small>
+            </div>
+
+            <div class="form-group">
+                <label for="phNumber">Phone Number</label>
+                <input type="tel" name="phNumber" id="phNumber" placeholder="Enter Your Phone Number">
+                <small id="phNumber-error"><svg width="16px" height="16px" viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg" fill="none" stroke="red">
+                        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                        <g id="SVGRepo_iconCarrier">
+                            <circle cx="12" cy="12" r="9" stroke="#00000" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="2"></circle>
+                            <path stroke="#00000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M12 8v5m0 3v0"></path>
+                        </g>
+                    </svg> Phone must be 11 digits starting with 01</small>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" name="password" id="password" placeholder="Enter Your Password">
+                <small id="password-error"><svg width="16px" height="16px" viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg" fill="none" stroke="red">
+                        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                        <g id="SVGRepo_iconCarrier">
+                            <circle cx="12" cy="12" r="9" stroke="#00000" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="2"></circle>
+                            <path stroke="#00000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M12 8v5m0 3v0"></path>
+                        </g>
+                    </svg> Password must be at least 8 characters</small>
+            </div>
+            <div class="form-group">
+                <label for="rePassword">Re-password</label>
+                <input type="password" name="rePassword" id="rePassword" placeholder="Repeat Your Password">
+                <small id="rePassword-error"><svg width="16px" height="16px" viewBox="0 0 24 24"
+                        xmlns="http://www.w3.org/2000/svg" fill="none" stroke="red">
+                        <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                        <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                        <g id="SVGRepo_iconCarrier">
+                            <circle cx="12" cy="12" r="9" stroke="#00000" stroke-linecap="round" stroke-linejoin="round"
+                                stroke-width="2"></circle>
+                            <path stroke="#00000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M12 8v5m0 3v0"></path>
+                        </g>
+                    </svg> Passwords do not match</small>
+            </div>
+            <div class="conditions">
+                <input type="checkbox" name="conditions" id="conditions">
+                <label for="conditions">I accept the terms and conditions</label>
+            </div>
+            <button type="submit">Register</button>
+
+        </form>
+    </main>
+
+    <div id="toast" class="toast">
+        <span id="toast-message">error</span>
+    </div>
+
+    <script src="../js/register.js"></script>
+</body>
+
+</html>

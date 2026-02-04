@@ -1,0 +1,5032 @@
+{
+  "products": [
+    {
+      "sold": 2210,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680395632039-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680395632040-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680395632041-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680395632040-3.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 20,
+      "_id": "6428cd70dc1175abc65ca03d",
+      "title": "React Live Sneakers Black/White-Dk Smoke Grey",
+      "slug": "react-live-sneakers-blackwhite-dk-smoke-grey",
+      "description": "Comfortable and soft cotton blend fabric\nRibbed crew neck and short sleeves\nadidas signature branding print\nWash according to care label instructions",
+      "quantity": 120,
+      "price": 4639,
+      "priceAfterDiscount": 3759,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680395631938-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089c3924b25627a2531593",
+        "name": "Adidas",
+        "slug": "adidas",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+      },
+      "ratingsAverage": 3.7,
+      "createdAt": "2023-04-02T00:33:52.861Z",
+      "updatedAt": "2026-01-30T14:55:48.986Z",
+      "id": "6428cd70dc1175abc65ca03d"
+    },
+    {
+      "sold": 44846,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680395220690-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680395220693-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680395220692-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680395220713-4.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 19,
+      "_id": "6428cbd5dc1175abc65ca037",
+      "title": "Essentials Embroidered Linear Logo T-Shirt Navy",
+      "slug": "essentials-embroidered-linear-logo-t-shirt-navy",
+      "description": "Comfortable and soft cotton blend fabric\nRibbed crew neck and short sleeves\nadidas signature branding print\nWash according to care label instructions",
+      "quantity": 118,
+      "price": 749,
+      "priceAfterDiscount": 504,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680395220407-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089c3924b25627a2531593",
+        "name": "Adidas",
+        "slug": "adidas",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+      },
+      "ratingsAverage": 3.8,
+      "createdAt": "2023-04-02T00:27:01.864Z",
+      "updatedAt": "2026-01-27T12:14:50.343Z",
+      "id": "6428cbd5dc1175abc65ca037"
+    },
+    {
+      "sold": 1888,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394855240-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394855240-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394855239-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394855240-4.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 13,
+      "_id": "6428ca68dc1175abc65ca02b",
+      "title": "Adicolor Classics Beckenbauer Primeblue Track Top",
+      "slug": "adicolor-classics-beckenbauer-primeblue-track-top",
+      "description": "Material\tCotton Blend\nColour Name\tnight indigo\nDepartment\tMen",
+      "quantity": 120,
+      "price": 2379,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680394855158-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089c3924b25627a2531593",
+        "name": "Adidas",
+        "slug": "adidas",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+      },
+      "ratingsAverage": 3.8,
+      "createdAt": "2023-04-02T00:20:56.323Z",
+      "updatedAt": "2026-01-27T00:56:09.364Z",
+      "id": "6428ca68dc1175abc65ca02b"
+    },
+    {
+      "sold": 2041,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394593459-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394593460-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394593460-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394593461-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394593462-6.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394593461-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680394593462-7.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 13,
+      "_id": "6428c962dc1175abc65ca025",
+      "title": "Duramo 10 Running Shoes",
+      "slug": "duramo-10-running-shoes",
+      "description": "Clean, fresh, understated style that takes your breath away. That's what you'll see when you pull these adidas kicks out of their box. Tonal 3-Stripes on the uncluttered synthetic leather upper rock a heritage vibe. A cushiony midsole adds soft support over the retro rubber outsole.\n",
+      "quantity": 150,
+      "price": 1999,
+      "priceAfterDiscount": 1314,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680394593396-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089c3924b25627a2531593",
+        "name": "Adidas",
+        "slug": "adidas",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+      },
+      "ratingsAverage": 3.8,
+      "createdAt": "2023-04-02T00:16:34.330Z",
+      "updatedAt": "2026-01-29T22:02:10.034Z",
+      "id": "6428c962dc1175abc65ca025"
+    },
+    {
+      "sold": 1444,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393896545-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393896545-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393896546-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393896544-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393896546-7.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393896546-6.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393896546-5.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 2,
+      "_id": "6428c6a9dc1175abc65ca01f",
+      "title": "Hoops 3.0 Low Classic Vintage Shoes",
+      "slug": "hoops-3.0-low-classic-vintage-shoes",
+      "description": "Clean, fresh, understated style that takes your breath away. That's what you'll see when you pull these adidas kicks out of their box. Tonal 3-Stripes on the uncluttered synthetic leather upper rock a heritage vibe. A cushiony midsole adds soft support over the retro rubber outsole.\n",
+      "quantity": 70,
+      "price": 1629,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680393896493-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089c3924b25627a2531593",
+        "name": "Adidas",
+        "slug": "adidas",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+      },
+      "ratingsAverage": 4.5,
+      "createdAt": "2023-04-02T00:04:57.368Z",
+      "updatedAt": "2026-01-30T13:20:49.397Z",
+      "id": "6428c6a9dc1175abc65ca01f"
+    },
+    {
+      "sold": 1116,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393655128-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393655128-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393655129-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393655129-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393655132-7.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393655130-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393655131-6.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 1,
+      "_id": "6428c5b7dc1175abc65ca019",
+      "title": "Galaxy 6 Running Shoes",
+      "slug": "galaxy-6-running-shoes",
+      "description": "Material\tCotton Blend\nColour Name\tBLUE\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 64% Cotton 36% Polyester\nItem Pack Quantity\tSingle\nPack Size\tSingle\nModel Number\tW21770Z8-S7N-823090\nModel Name\tW21770Z8-S7N-823090",
+      "quantity": 60,
+      "price": 1629,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680393655068-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089c3924b25627a2531593",
+        "name": "Adidas",
+        "slug": "adidas",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+      },
+      "ratingsAverage": 5,
+      "createdAt": "2023-04-02T00:00:55.928Z",
+      "updatedAt": "2026-01-30T18:16:40.153Z",
+      "id": "6428c5b7dc1175abc65ca019"
+    },
+    {
+      "sold": 1190,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393143751-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393143752-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680393143752-2.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 3,
+      "_id": "6428c3b8dc1175abc65ca00e",
+      "title": "Slim Fit Long Sleeve Dobby Men's Shirt",
+      "slug": "slim-fit-long-sleeve-dobby-men's-shirt",
+      "description": "Material\tCotton Blend\nColour Name\tBLUE\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 64% Cotton 36% Polyester\nItem Pack Quantity\tSingle\nPack Size\tSingle\nModel Number\tW21770Z8-S7N-823090\nModel Name\tW21770Z8-S7N-823090",
+      "quantity": 60,
+      "price": 549,
+      "priceAfterDiscount": 343,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680393143423-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089d9e24b25627a25315a5",
+        "name": "LC Waikiki",
+        "slug": "lc-waikiki",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+      },
+      "ratingsAverage": 4.7,
+      "createdAt": "2023-04-01T23:52:24.326Z",
+      "updatedAt": "2026-01-30T18:16:40.153Z",
+      "id": "6428c3b8dc1175abc65ca00e"
+    },
+    {
+      "sold": 1429,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392991339-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392991339-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392991340-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392991340-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392991341-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392991341-6.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 3,
+      "_id": "6428c320dc1175abc65ca008",
+      "title": "Crew Neck Long Sleeve Men's Knitwear Sweater",
+      "slug": "crew-neck-long-sleeve-men's-knitwear-sweater",
+      "description": "Material\tCotton\nColour Name\tNAVY\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 100% Cotton",
+      "quantity": 50,
+      "price": 449,
+      "priceAfterDiscount": 330,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680392991271-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089d9e24b25627a25315a5",
+        "name": "LC Waikiki",
+        "slug": "lc-waikiki",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+      },
+      "ratingsAverage": 4.7,
+      "createdAt": "2023-04-01T23:49:52.387Z",
+      "updatedAt": "2026-01-29T17:02:46.854Z",
+      "id": "6428c320dc1175abc65ca008"
+    },
+    {
+      "sold": 1268,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392445792-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392445792-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392445792-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392445793-4.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 3,
+      "_id": "6428c0fedc1175abc65c9ffd",
+      "title": "Crew Neck Long Sleeve Striped Men's Tricot Sweater",
+      "slug": "crew-neck-long-sleeve-striped-men's-tricot-sweater",
+      "description": "Tricot fabric, Tricot fabric, Ribbed ankles and bottom\nWASH AT MAXIMUM 30 °C, DO NOT USE BLEACH, DO NOT TUMBLE DRY, IRON AT LOW TEMPERATURE, DO NOT DRY CLEAN\n",
+      "quantity": 100,
+      "price": 599,
+      "priceAfterDiscount": 539,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680392445443-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089d9e24b25627a25315a5",
+        "name": "LC Waikiki",
+        "slug": "lc-waikiki",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+      },
+      "ratingsAverage": 2,
+      "createdAt": "2023-04-01T23:40:46.486Z",
+      "updatedAt": "2026-01-29T22:02:10.034Z",
+      "id": "6428c0fedc1175abc65c9ffd"
+    },
+    {
+      "sold": 1209,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392258020-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392258021-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392258020-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392258021-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392258022-7.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392258021-6.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680392258021-5.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 3,
+      "_id": "6428c042dc1175abc65c9ff7",
+      "title": "Crew Neck Long Sleeve Men's Tricot Sweater with Color Block",
+      "slug": "crew-neck-long-sleeve-men's-tricot-sweater-with-color-block",
+      "description": "Tricot fabric, Tricot fabric, Ribbed ankles and bottom\nWASH AT MAXIMUM 30 °C, DO NOT USE BLEACH, DO NOT TUMBLE DRY, IRON AT LOW TEMPERATURE, DO NOT DRY CLEAN\n",
+      "quantity": 500,
+      "price": 549,
+      "priceAfterDiscount": 321,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680392257974-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089d9e24b25627a25315a5",
+        "name": "LC Waikiki",
+        "slug": "lc-waikiki",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+      },
+      "ratingsAverage": 5,
+      "createdAt": "2023-04-01T23:37:38.808Z",
+      "updatedAt": "2026-01-22T17:41:19.147Z",
+      "id": "6428c042dc1175abc65c9ff7"
+    },
+    {
+      "sold": 907,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391999434-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391999434-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391999435-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391999435-4.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 16,
+      "_id": "6428bf40dc1175abc65c9ff1",
+      "title": "Polo Collar Short Sleeve Color Block Men's Knitwear Sweater",
+      "slug": "polo-collar-short-sleeve-color-block-men's-knitwear-sweater",
+      "description": "100% cotton fabric",
+      "quantity": 360,
+      "price": 349,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680391999270-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089d9e24b25627a25315a5",
+        "name": "LC Waikiki",
+        "slug": "lc-waikiki",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+      },
+      "ratingsAverage": 3,
+      "createdAt": "2023-04-01T23:33:20.197Z",
+      "updatedAt": "2026-01-26T18:04:30.421Z",
+      "id": "6428bf40dc1175abc65c9ff1"
+    },
+    {
+      "sold": 841,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391722627-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391722628-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391722626-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391722628-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391722628-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391722628-6.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 16,
+      "_id": "6428be2bdc1175abc65c9fe6",
+      "title": "Crew Neck Long Sleeve Striped Men's Knitwear Sweater",
+      "slug": "crew-neck-long-sleeve-striped-men's-knitwear-sweater",
+      "description": "Colour Name\tBLUE\nDepartment\tMen\nMaterial Composition\tMAIN FABRIC: 100% Cotton\nLining Material\tCotton\nModel Number\tW20952Z8-CTD\nModel Name\tW20952Z8-CTD",
+      "quantity": 300,
+      "price": 549,
+      "priceAfterDiscount": 355,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680391722468-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089d9e24b25627a25315a5",
+        "name": "LC Waikiki",
+        "slug": "lc-waikiki",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+      },
+      "ratingsAverage": 3,
+      "createdAt": "2023-04-01T23:28:43.578Z",
+      "updatedAt": "2026-01-25T19:07:14.567Z",
+      "id": "6428be2bdc1175abc65c9fe6"
+    },
+    {
+      "sold": 1286,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391133904-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391133905-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391133905-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391133906-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391133907-6.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391133907-7.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1680391133906-5.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f243b575d3b90bf957ac",
+          "name": "Men's Clothing",
+          "slug": "men's-clothing",
+          "category": "6439d5b90049ad0b52b90048"
+        }
+      ],
+      "ratingsQuantity": 6,
+      "_id": "6428bbdedc1175abc65c9fce",
+      "title": "Slim Fit Stand Collar Men's Leather Look Coat",
+      "slug": "slim-fit-stand-collar-men's-leather-look-coat",
+      "description": "Colour Name\tBlack\nDepartment\tMen\nModel Number\tW21199Z8-CVL\nModel Name\tW21199Z8-CVL",
+      "quantity": 200,
+      "price": 1499,
+      "priceAfterDiscount": 874,
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680391133207-cover.jpeg",
+      "category": {
+        "_id": "6439d5b90049ad0b52b90048",
+        "name": "Men's Fashion",
+        "slug": "men's-fashion",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+      },
+      "brand": {
+        "_id": "64089d9e24b25627a25315a5",
+        "name": "LC Waikiki",
+        "slug": "lc-waikiki",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+      },
+      "ratingsAverage": 2.6,
+      "createdAt": "2023-04-01T23:18:54.840Z",
+      "updatedAt": "2026-01-25T22:23:14.529Z",
+      "id": "6428bbdedc1175abc65c9fce"
+    },
+    {
+      "sold": 2160,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677267-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677267-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677266-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677266-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677267-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677268-6.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677268-7.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677268-8.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678305677269-9.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f3e3b575d3b90bf957f1",
+          "name": "Networking Products",
+          "slug": "networking-products",
+          "category": "6439d2d167d9aa4ca970649f"
+        }
+      ],
+      "ratingsQuantity": 200,
+      "_id": "6408e98e6406cd15828e8f30",
+      "title": "Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black",
+      "slug": "archer-vr300-ac1200-wireless-vdsladsl-modem-router-black",
+      "description": "Parental Controls: manage responsible internet access for your children\nGuest Network|: provides separate access for guests while securing the home network\nFirewall Security: supports DoS, SPI Firewall, IP Addressing/Domain Filter, IP/MAC Address Binding\nQuality of Service: prioritizes network traffic by device or application, IPv6: compatible with IPv6 (Internet Protocol version 6)\nIPTV IGMP Proxy/Snooping: supports Bridge and Tag VLAN for smooth IPTV application, Multilingual Interface: provides hassle-free configuration in six languages (EN/DE/IT/TR/RU/PO)",
+      "quantity": 399,
+      "price": 1699,
+      "availableColors": [],
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678305677165-cover.jpeg",
+      "category": {
+        "_id": "6439d2d167d9aa4ca970649f",
+        "name": "Electronics",
+        "slug": "electronics",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+      },
+      "brand": {
+        "_id": "64089fe824b25627a25315d1",
+        "name": "Canon",
+        "slug": "canon",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+      },
+      "ratingsAverage": 4.5,
+      "createdAt": "2023-03-08T20:01:18.146Z",
+      "updatedAt": "2026-01-30T14:55:48.986Z",
+      "id": "6408e98e6406cd15828e8f30"
+    },
+    {
+      "sold": 1693,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304765005-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304765006-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304765006-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304765005-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304765006-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304765007-6.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304765007-7.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f3d8b575d3b90bf957ee",
+          "name": "Printers & Accessories",
+          "slug": "printers-and-accessories",
+          "category": "6439d2d167d9aa4ca970649f"
+        }
+      ],
+      "ratingsQuantity": 60,
+      "_id": "6408e5fd6406cd15828e8f28",
+      "title": "PIXMA G3420 Multi-Function Inkjet Printer Black",
+      "slug": "pixma-g3420-multi-function-inkjet-printer-black",
+      "description": "photos with a maximum print-color resolution of 4800 x 1200 dpi using FINE printhead technology. AirPrint allows you to print directly from your iPhone\niPad or iPod touch wirelessly while built-in Wi-Fi technology allows you to print and scan wirelessly from virtually anywhere around your small office\nEnvironmentally friendly, Auto Duplex Printing allows you to automatically print on both sides of paper to reduce paper usage. Full HD Movie Print turns fav\nInnovative intelligence helps to achieve consistent results\nEasy and smooth to use as per convenience\nIt is designed keeping your choice and requirement in mind",
+      "quantity": 400,
+      "price": 5999,
+      "availableColors": [],
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678304764905-cover.jpeg",
+      "category": {
+        "_id": "6439d2d167d9aa4ca970649f",
+        "name": "Electronics",
+        "slug": "electronics",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+      },
+      "brand": {
+        "_id": "64089fe824b25627a25315d1",
+        "name": "Canon",
+        "slug": "canon",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+      },
+      "ratingsAverage": 4.5,
+      "createdAt": "2023-03-08T19:46:05.703Z",
+      "updatedAt": "2026-01-25T17:17:08.118Z",
+      "id": "6408e5fd6406cd15828e8f28"
+    },
+    {
+      "sold": 2091,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304313126-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304313127-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304313134-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304313135-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304313134-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678304313135-6.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f3ccb575d3b90bf957eb",
+          "name": "Cameras & Accessories",
+          "slug": "cameras-and-accessories",
+          "category": "6439d2d167d9aa4ca970649f"
+        }
+      ],
+      "ratingsQuantity": 60,
+      "_id": "6408e43a6406cd15828e8f22",
+      "title": "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black",
+      "slug": "eos-m50-mark-ii-mirrorless-digital-camera-with-15-45mm-lens-black",
+      "description": "24.1 megapixel (aps-c) cmos sensor with iso 100-25600 (h: 51200)\ndigic 8 image processor with auto lighting optimizer\nimproved dual pixel cmos af and eye detection af (still/movie servo af support)\n4k uhd 24p and hd 120p for slow motion\nvari-angle touchscreen lcd convenient for vlogging and various composition",
+      "quantity": 600,
+      "price": 19699,
+      "priceAfterDiscount": 19199,
+      "availableColors": [],
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678304313006-cover.jpeg",
+      "category": {
+        "_id": "6439d2d167d9aa4ca970649f",
+        "name": "Electronics",
+        "slug": "electronics",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+      },
+      "brand": {
+        "_id": "64089fe824b25627a25315d1",
+        "name": "Canon",
+        "slug": "canon",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+      },
+      "ratingsAverage": 4.3,
+      "createdAt": "2023-03-08T19:38:34.436Z",
+      "updatedAt": "2026-01-25T18:58:42.537Z",
+      "id": "6408e43a6406cd15828e8f22"
+    },
+    {
+      "sold": 2544,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303526286-1.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f3c0b575d3b90bf957e8",
+          "name": "Video Games",
+          "slug": "video-games",
+          "category": "6439d2d167d9aa4ca970649f"
+        }
+      ],
+      "ratingsQuantity": 497,
+      "_id": "6408e1266406cd15828e8f1c",
+      "title": "PS5 DualSense Charging Station",
+      "slug": "ps5-dualsense-charging-station",
+      "description": "Charge up to two DualSense Wireless Controllers at the same time without having to connect them to your PlayStation 5 Console\nYour Controllers charge as quickly as when connected to your PS5 Console – so you can free up USB ports without sacrificing performance\nDock your DualSense Wireless Controllers quickly and easily with the charging station’s click-in design and leave them to charge at your convenience",
+      "quantity": 600,
+      "price": 1045,
+      "availableColors": [],
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303526206-cover.jpeg",
+      "category": {
+        "_id": "6439d2d167d9aa4ca970649f",
+        "name": "Electronics",
+        "slug": "electronics",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+      },
+      "brand": {
+        "_id": "64089df124b25627a25315ab",
+        "name": "Samsung",
+        "slug": "samsung",
+        "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286321029.png"
+      },
+      "ratingsAverage": 4.3,
+      "createdAt": "2023-03-08T19:25:26.782Z",
+      "updatedAt": "2026-01-27T00:56:09.364Z",
+      "id": "6408e1266406cd15828e8f1c"
+    },
+    {
+      "sold": 2994,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303324664-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303324665-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303324664-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303324665-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303324665-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303324666-7.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303324666-6.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678303324667-8.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f3a8b575d3b90bf957e2",
+          "name": "Laptops & Accessories",
+          "slug": "laptops-and-accessories",
+          "category": "6439d2d167d9aa4ca970649f"
+        }
+      ],
+      "ratingsQuantity": 497,
+      "_id": "6408e05d6406cd15828e8f16",
+      "title": "Galaxy Buds 2 Graphite",
+      "slug": "galaxy-buds-2-graphite",
+      "description": "Galaxy Buds 2 come up to 20 hours of playback time with active noise cancellation (ANC) turned on\nThe TWS earphones appear to have a total of three microphones and an integrated voice recording unit for high quality calls\nThe charging case offers an additional 15 hours worth of battery life\nGalaxy Buds2 ear buds take your passion for music to new heights with booming sound that makes you feel like you're on stage with your favorite band\nGalaxy Buds2 have a comfortable, low profile design that's 10% smaller and lighter than Galaxy Buds+; You may get to the end of your playlist before you remember you're wearing them at all\nThe earbuds’ 3 microphones and noise reduction technology ensures voices are transmitted crisply and clearly, whether you're chatting with a friend or leading a high stakes conference call",
+      "quantity": "600",
+      "price": "3999",
+      "availableColors": [],
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303324588-cover.jpeg",
+      "category": {
+        "name": "Electronics"
+      },
+      "brand": {
+        "name": "Sony"
+      },
+      "ratingsAverage": 4.3,
+      "createdAt": "2023-03-08T19:22:05.355Z",
+      "updatedAt": "2026-01-29T22:02:10.034Z",
+      "id": "6408e05d6406cd15828e8f16"
+    },
+    {
+      "sold": 3004,
+      "images": [
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803182-2.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803182-3.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803181-1.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803183-4.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803183-5.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803183-6.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803184-7.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803184-8.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803185-10.jpeg",
+        "https://ecommerce.routemisr.com/Route-Academy-products/1678302803184-9.jpeg"
+      ],
+      "subcategory": [
+        {
+          "_id": "6407f3a8b575d3b90bf957e2",
+          "name": "Laptops & Accessories",
+          "slug": "laptops-and-accessories",
+          "category": "6439d2d167d9aa4ca970649f"
+        }
+      ],
+      "ratingsQuantity": 397,
+      "_id": "6408de536406cd15828e8f10",
+      "title": "WH-CH510 Wireless On-Ear Bluetooth Headphones Black",
+      "slug": "wh-ch510-wireless-on-ear-bluetooth-headphones-black",
+      "description": "Bluetooth wireless technology for unrestricted movement\nUp to 35 hours of battery life for all-day power and quick charging\nEasy hands-free calling and voice assistant commands with microphone\nCompact and lightweight, swivel ear cups allow easy portability\nSimple button press connects you to your smartphone's voice assistant to get directions, play music\nHear more detail with 30mm Driver Unit",
+      "quantity": "600",
+      "price": "1949",
+      "availableColors": [],
+      "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678302803089-cover.jpeg",
+      "category": {
+        "name": "Electronics"
+      },
+      "brand": {
+        "name": "Sony"
+      },
+      "ratingsAverage": 4.3,
+      "createdAt": "2023-03-08T19:13:23.984Z",
+      "updatedAt": "2026-01-25T19:07:14.567Z",
+      "id": "6408de536406cd15828e8f10"
+    }
+  ],
+  "categories": [
+    {
+      "id": "6439d5b90049ad0b52b90048",
+      "name": "Men's Fashion",
+      "slug": "men's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg",
+      "createdAt": "2023-04-14T22:37:45.627Z",
+      "updatedAt": "2023-04-14T22:37:45.627Z"
+    },
+    {
+      "id": "6439d58a0049ad0b52b9003f",
+      "name": "Women's Fashion",
+      "slug": "women's-fashion",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg",
+      "createdAt": "2023-04-14T22:36:58.118Z",
+      "updatedAt": "2023-04-14T22:36:58.118Z"
+    },
+    {
+      "id": "6439d41c67d9aa4ca97064d5",
+      "name": "SuperMarket",
+      "slug": "supermarket",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511452254.png",
+      "createdAt": "2023-04-14T22:30:52.311Z",
+      "updatedAt": "2023-04-14T22:30:52.311Z"
+    },
+    {
+      "id": "6439d40367d9aa4ca97064cc",
+      "name": "Baby & Toys",
+      "slug": "baby-and-toys",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511427130.png",
+      "createdAt": "2023-04-14T22:30:27.166Z",
+      "updatedAt": "2023-04-14T22:30:27.166Z"
+    },
+    {
+      "id": "6439d3c867d9aa4ca97064ba",
+      "name": "Books",
+      "slug": "books",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511368164.png",
+      "createdAt": "2023-04-14T22:29:28.200Z",
+      "updatedAt": "2023-04-14T22:29:28.200Z"
+    },
+    {
+      "id": "6439d30b67d9aa4ca97064b1",
+      "name": "Beauty & Health",
+      "slug": "beauty-and-health",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511179514.png",
+      "createdAt": "2023-04-14T22:26:19.587Z",
+      "updatedAt": "2023-04-14T22:26:19.587Z"
+    },
+    {
+      "id": "6439d2f467d9aa4ca97064a8",
+      "name": "Mobiles",
+      "slug": "mobiles",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511156008.png",
+      "createdAt": "2023-04-14T22:25:56.071Z",
+      "updatedAt": "2023-04-14T22:25:56.071Z"
+    },
+    {
+      "id": "6439d2d167d9aa4ca970649f",
+      "name": "Electronics",
+      "slug": "electronics",
+      "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png",
+      "createdAt": "2023-04-14T22:25:21.783Z",
+      "updatedAt": "2023-04-14T22:25:21.783Z"
+    }
+  ],
+  "orders": [
+    {
+      "shippingAddress": {
+        "details": "Bhbj",
+        "phone": "01012947350",
+        "city": "Alex"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 86111,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6977b36e824d3362c452ba88",
+      "user": {
+        "_id": "69763740ad1599485036ebda",
+        "name": "Mohamed",
+        "email": "mhmed@gmail.com",
+        "phone": "01016494945"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6977ad41824d3362c452b405",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        },
+        {
+          "count": 2,
+          "_id": "6977b2bb824d3362c452b9fe",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6408da1c6406cd15828e8f0a",
+            "title": "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678301723274-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089faf24b25627a25315cd",
+              "name": "Dell",
+              "slug": "dell",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286767914.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408da1c6406cd15828e8f0a"
+          },
+          "price": 42960
+        }
+      ],
+      "paidAt": "2026-01-26T18:33:18.387Z",
+      "createdAt": "2026-01-26T18:33:18.391Z",
+      "updatedAt": "2026-01-26T18:33:18.391Z",
+      "id": 75924
+    },
+    {
+      "shippingAddress": {
+        "details": "gfg",
+        "phone": "01055556555",
+        "city": "hghh"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 7284,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6977acad824d3362c452b355",
+      "user": {
+        "_id": "6946daeb94b7194cd0df6709",
+        "name": "mohammed",
+        "email": "hamoz@gmail.com",
+        "phone": "01012647350"
+      },
+      "cartItems": [
+        {
+          "count": 2,
+          "_id": "6977640a824d3362c45248b8",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3e3b575d3b90bf957f1",
+                "name": "Networking Products",
+                "slug": "networking-products",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 200,
+            "_id": "6408e98e6406cd15828e8f30",
+            "title": "Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678305677165-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089fe824b25627a25315d1",
+              "name": "Canon",
+              "slug": "canon",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+            },
+            "ratingsAverage": 4.5,
+            "id": "6408e98e6406cd15828e8f30"
+          },
+          "price": 1699
+        },
+        {
+          "count": 1,
+          "_id": "69777043824d3362c4525926",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 16,
+            "_id": "6428bf40dc1175abc65c9ff1",
+            "title": "Polo Collar Short Sleeve Color Block Men's Knitwear Sweater",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680391999270-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d9e24b25627a25315a5",
+              "name": "LC Waikiki",
+              "slug": "lc-waikiki",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+            },
+            "ratingsAverage": 3,
+            "id": "6428bf40dc1175abc65c9ff1"
+          },
+          "price": 349
+        },
+        {
+          "count": 1,
+          "_id": "69777296824d3362c4525f0f",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 1,
+            "_id": "6428e509dc1175abc65ca07e",
+            "title": "Relaxed Fit Knitted Joggers Lilac",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680401672268-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 1,
+            "id": "6428e509dc1175abc65ca07e"
+          },
+          "price": 499
+        },
+        {
+          "count": 2,
+          "_id": "6977742a824d3362c4526335",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6428e479dc1175abc65ca078",
+            "title": "Woman Socks",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680401528864-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6428e479dc1175abc65ca078"
+          },
+          "price": 199
+        },
+        {
+          "count": 1,
+          "_id": "69778824824d3362c452846c",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 20,
+            "_id": "6428d132dc1175abc65ca04f",
+            "title": "Sportswear Club Graphic Hoodie Blue",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680396593789-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428d132dc1175abc65ca04f"
+          },
+          "price": 2449
+        },
+        {
+          "count": 1,
+          "_id": "6977ac76824d3362c452b2ff",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        }
+      ],
+      "paidAt": "2026-01-26T18:04:29.962Z",
+      "createdAt": "2026-01-26T18:04:29.967Z",
+      "updatedAt": "2026-01-26T18:04:29.967Z",
+      "id": 75923
+    },
+    {
+      "shippingAddress": {
+        "details": "sdsd",
+        "phone": "01019384650",
+        "city": "dsdsd"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 149,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6977abeb824d3362c452b19f",
+      "user": {
+        "_id": "6977aa78824d3362c452aeb7",
+        "name": "OMAR",
+        "email": "omar9@omar9.com",
+        "phone": "01118671220"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6977ab9a824d3362c452b0c7",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-26T18:01:15.915Z",
+      "createdAt": "2026-01-26T18:01:15.917Z",
+      "updatedAt": "2026-01-26T18:01:15.917Z",
+      "id": 75922
+    },
+    {
+      "shippingAddress": {
+        "details": "rflr,",
+        "city": "fl3rl,",
+        "phone": "01065830342"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 340,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6977a84d824d3362c452ac6e",
+      "user": {
+        "_id": "6977714c824d3362c4525bf6",
+        "name": "rahma Abdo",
+        "email": "rahmaabdo@gmail.com",
+        "phone": "01010700791"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6977a082824d3362c4529e14",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        },
+        {
+          "count": 1,
+          "_id": "6977a083824d3362c4529e18",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-26T17:45:49.208Z",
+      "createdAt": "2026-01-26T17:45:49.214Z",
+      "updatedAt": "2026-01-26T17:45:49.214Z",
+      "id": 75921
+    },
+    {
+      "shippingAddress": {
+        "details": "maadi",
+        "city": "cairo",
+        "phone": "0100100"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 340,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6977905f824d3362c4528e66",
+      "user": {
+        "_id": "693dd5342037f0d290435bbe",
+        "name": "thatcher",
+        "email": "thatcher@gmail.com",
+        "phone": "01016504401"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69779039824d3362c4528e33",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        },
+        {
+          "count": 1,
+          "_id": "6977903a824d3362c4528e3e",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-26T16:03:43.864Z",
+      "createdAt": "2026-01-26T16:03:43.868Z",
+      "updatedAt": "2026-01-26T16:03:43.868Z",
+      "id": 75920
+    },
+    {
+      "shippingAddress": {
+        "details": "maadi",
+        "city": "cairo",
+        "phone": "0100100"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 191,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69778f19824d3362c4528d3b",
+      "user": {
+        "_id": "693dd5342037f0d290435bbe",
+        "name": "thatcher",
+        "email": "thatcher@gmail.com",
+        "phone": "01016504401"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69778ef0824d3362c4528cfb",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        }
+      ],
+      "paidAt": "2026-01-26T15:58:17.922Z",
+      "createdAt": "2026-01-26T15:58:17.926Z",
+      "updatedAt": "2026-01-26T15:58:17.926Z",
+      "id": 75919
+    },
+    {
+      "shippingAddress": {
+        "details": "maadi",
+        "city": "cairo",
+        "phone": "0100100"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 340,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69778ea6824d3362c4528bea",
+      "user": {
+        "_id": "693dd5342037f0d290435bbe",
+        "name": "thatcher",
+        "email": "thatcher@gmail.com",
+        "phone": "01016504401"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6977898c824d3362c45285eb",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        },
+        {
+          "count": 1,
+          "_id": "6977898e824d3362c45285f7",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-26T15:56:22.163Z",
+      "createdAt": "2026-01-26T15:56:22.169Z",
+      "updatedAt": "2026-01-26T15:56:22.169Z",
+      "id": 75918
+    },
+    {
+      "shippingAddress": {
+        "phone": "01142365214",
+        "city": "Cumque sed non quide"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 2999,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69777afb824d3362c45272c7",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69777ab1824d3362c452720a",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 20,
+            "_id": "6428de2adc1175abc65ca05b",
+            "title": "Softride Enzo NXT CASTLEROCK-High Risk R",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680399913757-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d5c24b25627a253159f",
+              "name": "Puma",
+              "slug": "puma",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286172219.png"
+            },
+            "ratingsAverage": 2.8,
+            "id": "6428de2adc1175abc65ca05b"
+          },
+          "price": 2999
+        }
+      ],
+      "paidAt": "2026-01-26T14:32:27.256Z",
+      "createdAt": "2026-01-26T14:32:27.258Z",
+      "updatedAt": "2026-01-26T14:32:27.258Z",
+      "id": 75917
+    },
+    {
+      "shippingAddress": {
+        "phone": "01142631113",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 149,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69777a8e824d3362c452712a",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697779e3824d3362c4526e66",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-26T14:30:38.913Z",
+      "createdAt": "2026-01-26T14:30:38.916Z",
+      "updatedAt": "2026-01-26T14:30:38.916Z",
+      "id": 75916
+    },
+    {
+      "shippingAddress": {
+        "phone": "01142631113",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 298,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697779b3824d3362c4526deb",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 2,
+          "_id": "69777936824d3362c4526c63",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-26T14:26:59.954Z",
+      "updatedAt": "2026-01-26T14:26:59.954Z",
+      "id": 75915
+    },
+    {
+      "shippingAddress": {
+        "phone": "01142631113",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 149,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697778b8824d3362c4526b4c",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69777843824d3362c4526a9b",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-26T14:22:48.471Z",
+      "updatedAt": "2026-01-26T14:22:48.471Z",
+      "id": 75914
+    },
+    {
+      "shippingAddress": {
+        "phone": "01142631113",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 1347,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69777823824d3362c4526a15",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6977777d824d3362c452683b",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 5,
+            "_id": "6428e778dc1175abc65ca08a",
+            "title": "Woman Brown Long Sleeve Tunic LT.CAMEL",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402295928-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.7,
+            "id": "6428e778dc1175abc65ca08a"
+          },
+          "price": 499
+        },
+        {
+          "count": 1,
+          "_id": "69777780824d3362c452684b",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 10,
+            "_id": "6428e7ecdc1175abc65ca090",
+            "title": "Woman Bordeaux Long Sleeve Blouse BORDEAUX",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402411833-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.2,
+            "id": "6428e7ecdc1175abc65ca090"
+          },
+          "price": 499
+        },
+        {
+          "count": 1,
+          "_id": "69777784824d3362c4526860",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 10,
+            "_id": "6428e884dc1175abc65ca096",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402563605-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.2,
+            "id": "6428e884dc1175abc65ca096"
+          },
+          "price": 349
+        }
+      ],
+      "createdAt": "2026-01-26T14:20:19.934Z",
+      "updatedAt": "2026-01-26T14:20:19.934Z",
+      "id": 75913
+    },
+    {
+      "shippingAddress": {
+        "phone": "01124635244",
+        "city": "Perferendis eu moles"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 149,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69777510824d3362c452653c",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697774a1824d3362c45264d5",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ead5dc1175abc65ca0ad"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-26T14:07:12.744Z",
+      "updatedAt": "2026-01-26T14:07:12.744Z",
+      "id": 75912
+    },
+    {
+      "shippingAddress": {
+        "phone": "01142365214",
+        "city": "Cumque sed non quide"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 745,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69777396824d3362c4526173",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 5,
+          "_id": "69777262824d3362c4525e9a",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-26T14:00:54.388Z",
+      "updatedAt": "2026-01-26T14:00:54.388Z",
+      "id": 75911
+    },
+    {
+      "shippingAddress": {
+        "phone": "01142631113",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 149,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6977717d824d3362c4525c50",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69777172824d3362c4525c3e",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ead5dc1175abc65ca0ad"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-26T13:51:57.305Z",
+      "updatedAt": "2026-01-26T13:51:57.305Z",
+      "id": 75910
+    },
+    {
+      "shippingAddress": {
+        "phone": "01142631113",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 2070,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6977712a824d3362c4525b69",
+      "user": {
+        "_id": "664929e1d9d7660275c60d4c",
+        "name": "Zaghloul",
+        "email": "abdozaghloul990@gmail.com",
+        "phone": "01142631113"
+      },
+      "cartItems": [
+        {
+          "count": 3,
+          "_id": "69753b51d6b7bc47fe31592e",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 10,
+            "_id": "6428e7ecdc1175abc65ca090",
+            "title": "Woman Bordeaux Long Sleeve Blouse BORDEAUX",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402411833-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.2,
+            "id": "6428e7ecdc1175abc65ca090"
+          },
+          "price": 499
+        },
+        {
+          "count": 3,
+          "_id": "6977709f824d3362c4525a15",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        }
+      ],
+      "paidAt": "2026-01-26T13:50:34.258Z",
+      "createdAt": "2026-01-26T13:50:34.262Z",
+      "updatedAt": "2026-01-26T13:50:34.262Z",
+      "id": 75909
+    },
+    {
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 1147,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6977640e824d3362c45248c2",
+      "user": {
+        "_id": "697722ec824d3362c45203d5",
+        "name": "Naomy",
+        "email": "esmail838@gmail.com",
+        "phone": "01064734328"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697763a1824d3362c45247f1",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ead5dc1175abc65ca0ad"
+          },
+          "price": 149
+        },
+        {
+          "count": 2,
+          "_id": "697763a8824d3362c4524819",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 5,
+            "_id": "6428e778dc1175abc65ca08a",
+            "title": "Woman Brown Long Sleeve Tunic LT.CAMEL",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402295928-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.7,
+            "id": "6428e778dc1175abc65ca08a"
+          },
+          "price": 499
+        }
+      ],
+      "paidAt": "2026-01-26T12:54:38.314Z",
+      "createdAt": "2026-01-26T12:54:38.318Z",
+      "updatedAt": "2026-01-26T12:54:38.318Z",
+      "id": 75908
+    },
+    {
+      "shippingAddress": {
+        "details": "Nasr City, Cairo",
+        "phone": "01012345678",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 447,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69776163824d3362c4524536",
+      "user": {
+        "_id": "6977612b824d3362c452447d",
+        "name": "shahd saad",
+        "email": "renaassaad@gmail.com",
+        "phone": "01094038538"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6977613f824d3362c45244bf",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ead5dc1175abc65ca0ad"
+          },
+          "price": 149
+        },
+        {
+          "count": 2,
+          "_id": "69776140824d3362c45244c3",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428e997dc1175abc65ca0a1",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402838276-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428e997dc1175abc65ca0a1"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-26T12:43:15.409Z",
+      "updatedAt": "2026-01-26T12:43:15.409Z",
+      "id": 75907
+    },
+    {
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 149,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69774c33824d3362c4522f00",
+      "user": {
+        "_id": "642fd878faa254003e206518",
+        "name": "mostafa esmail",
+        "email": "mostafa.esmail838@gmail.com",
+        "phone": "01064734328"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69772d0e824d3362c4521416",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ead5dc1175abc65ca0ad"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-26T11:12:51.243Z",
+      "createdAt": "2026-01-26T11:12:51.248Z",
+      "updatedAt": "2026-01-26T11:12:51.248Z",
+      "id": 75906
+    },
+    {
+      "shippingAddress": {
+        "details": "Kafr",
+        "phone": "01099772757",
+        "city": "alex"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 149,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69772049824d3362c451fa92",
+      "user": {
+        "_id": "69739aecfc9a21e0e65005de",
+        "name": "Ali",
+        "email": "yasovic03@gmail.com",
+        "phone": "01099772757"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69771fe2824d3362c451f88e",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428e997dc1175abc65ca0a1",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402838276-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428e997dc1175abc65ca0a1"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-26T08:05:29.085Z",
+      "createdAt": "2026-01-26T08:05:29.092Z",
+      "updatedAt": "2026-01-26T08:05:29.092Z",
+      "id": 75905
+    },
+    {
+      "shippingAddress": {
+        "details": "تاا",
+        "phone": "01012647350",
+        "city": "Alexandria"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 1045,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6976e080a2dd0962169a9656",
+      "user": {
+        "_id": "69763740ad1599485036ebda",
+        "name": "Mohamed",
+        "email": "mhmed@gmail.com",
+        "phone": "01016494945"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6976e059a2dd0962169a9641",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3c0b575d3b90bf957e8",
+                "name": "Video Games",
+                "slug": "video-games",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e1266406cd15828e8f1c",
+            "title": "PS5 DualSense Charging Station",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303526206-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089df124b25627a25315ab",
+              "name": "Samsung",
+              "slug": "samsung",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286321029.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e1266406cd15828e8f1c"
+          },
+          "price": 1045
+        }
+      ],
+      "createdAt": "2026-01-26T03:33:20.641Z",
+      "updatedAt": "2026-01-26T03:33:20.641Z",
+      "id": 75904
+    },
+    {
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 191,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6976a8eac1639a5f054bd43e",
+      "user": {
+        "_id": "68bccd517821140b58a1781f",
+        "name": "Omar Hafez",
+        "email": "omarhafezhassan300@gmail.com",
+        "phone": "01153838255"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6976a8d9c1639a5f054bd421",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        }
+      ],
+      "createdAt": "2026-01-25T23:36:10.586Z",
+      "updatedAt": "2026-01-25T23:36:10.586Z",
+      "id": 75903
+    },
+    {
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 10849,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697697d2c1639a5f054bc3a6",
+      "user": {
+        "_id": "69395e4e2037f0d290343071",
+        "name": "Ahmed Abd Al-Muti",
+        "email": "ahmedmu3ttii4012@gmail.com",
+        "phone": "01010700701"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "693f25f64a0c0f26a7353982",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 13,
+            "_id": "6428c962dc1175abc65ca025",
+            "title": "Duramo 10 Running Shoes",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680394593396-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 3.8,
+            "id": "6428c962dc1175abc65ca025"
+          },
+          "price": 1999
+        },
+        {
+          "count": 1,
+          "_id": "693f25f74a0c0f26a735398d",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 13,
+            "_id": "6428ca68dc1175abc65ca02b",
+            "title": "Adicolor Classics Beckenbauer Primeblue Track Top",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680394855158-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 3.8,
+            "id": "6428ca68dc1175abc65ca02b"
+          },
+          "price": 2379
+        },
+        {
+          "count": 1,
+          "_id": "693f25f84a0c0f26a735399c",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 17,
+            "_id": "6428cb19dc1175abc65ca031",
+            "title": "Salah Track Top",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680395032949-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 3.2,
+            "id": "6428cb19dc1175abc65ca031"
+          },
+          "price": 1749
+        },
+        {
+          "count": 1,
+          "_id": "693f25fa4a0c0f26a73539be",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 1,
+            "_id": "6428c5b7dc1175abc65ca019",
+            "title": "Galaxy 6 Running Shoes",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680393655068-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 5,
+            "id": "6428c5b7dc1175abc65ca019"
+          },
+          "price": 1629
+        },
+        {
+          "count": 1,
+          "_id": "693f25fb4a0c0f26a73539cd",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 3,
+            "_id": "6428c3b8dc1175abc65ca00e",
+            "title": "Slim Fit Long Sleeve Dobby Men's Shirt",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680393143423-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d9e24b25627a25315a5",
+              "name": "LC Waikiki",
+              "slug": "lc-waikiki",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+            },
+            "ratingsAverage": 4.7,
+            "id": "6428c3b8dc1175abc65ca00e"
+          },
+          "price": 549
+        },
+        {
+          "count": 1,
+          "_id": "6941cc434a0c0f26a73c2ce5",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6428bbdedc1175abc65c9fce",
+            "title": "Slim Fit Stand Collar Men's Leather Look Coat",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680391133207-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d9e24b25627a25315a5",
+              "name": "LC Waikiki",
+              "slug": "lc-waikiki",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+            },
+            "ratingsAverage": 2.6,
+            "id": "6428bbdedc1175abc65c9fce"
+          },
+          "price": 1499
+        },
+        {
+          "count": 1,
+          "_id": "6941ccb34a0c0f26a73c2e19",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3c0b575d3b90bf957e8",
+                "name": "Video Games",
+                "slug": "video-games",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e1266406cd15828e8f1c",
+            "title": "PS5 DualSense Charging Station",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303526206-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089df124b25627a25315ab",
+              "name": "Samsung",
+              "slug": "samsung",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286321029.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e1266406cd15828e8f1c"
+          },
+          "price": 1045
+        }
+      ],
+      "paidAt": "2026-01-25T22:23:14.072Z",
+      "createdAt": "2026-01-25T22:23:14.079Z",
+      "updatedAt": "2026-01-25T22:23:14.079Z",
+      "id": 75902
+    },
+    {
+      "shippingAddress": {
+        "details": "Nostrum est mollitia",
+        "phone": "01014189906",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 199,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6976767e7a59265e56a22074",
+      "user": {
+        "_id": "69724059fc9a21e0e64efa7d",
+        "name": "yossef mohamed",
+        "email": "ym098886@gmail.com",
+        "phone": "01014189977"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6976766b7a59265e56a22053",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6428e479dc1175abc65ca078",
+            "title": "Woman Socks",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680401528864-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6428e479dc1175abc65ca078"
+          },
+          "price": 199
+        }
+      ],
+      "paidAt": "2026-01-25T20:01:02.413Z",
+      "createdAt": "2026-01-25T20:01:02.415Z",
+      "updatedAt": "2026-01-25T20:01:02.415Z",
+      "id": 75901
+    },
+    {
+      "shippingAddress": {
+        "details": "Nostrum est mollitia",
+        "phone": "01014189906",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 1499,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6976762c7a59265e56a21f3a",
+      "user": {
+        "_id": "69724059fc9a21e0e64efa7d",
+        "name": "yossef mohamed",
+        "email": "ym098886@gmail.com",
+        "phone": "01014189977"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697675707a59265e56a21e50",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6428bbdedc1175abc65c9fce",
+            "title": "Slim Fit Stand Collar Men's Leather Look Coat",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680391133207-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d9e24b25627a25315a5",
+              "name": "LC Waikiki",
+              "slug": "lc-waikiki",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+            },
+            "ratingsAverage": 2.6,
+            "id": "6428bbdedc1175abc65c9fce"
+          },
+          "price": 1499
+        }
+      ],
+      "paidAt": "2026-01-25T19:59:40.884Z",
+      "createdAt": "2026-01-25T19:59:40.889Z",
+      "updatedAt": "2026-01-25T19:59:40.889Z",
+      "id": 75900
+    },
+    {
+      "shippingAddress": {
+        "phone": "01010700700",
+        "city": "Gizaa",
+        "details": "Home details"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 2090,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69766e277a59265e56a21120",
+      "user": {
+        "_id": "68fbe1b9d672d33aea7c34cb",
+        "name": "Amr",
+        "email": "amr1010@gmail.com",
+        "phone": "01010700700"
+      },
+      "cartItems": [
+        {
+          "count": 2,
+          "_id": "693834582037f0d2902bf08a",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3c0b575d3b90bf957e8",
+                "name": "Video Games",
+                "slug": "video-games",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e1266406cd15828e8f1c",
+            "title": "PS5 DualSense Charging Station",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303526206-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089df124b25627a25315ab",
+              "name": "Samsung",
+              "slug": "samsung",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286321029.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e1266406cd15828e8f1c"
+          },
+          "price": 1045
+        }
+      ],
+      "createdAt": "2026-01-25T19:25:27.134Z",
+      "updatedAt": "2026-01-25T19:25:27.134Z",
+      "id": 75899
+    },
+    {
+      "shippingAddress": {
+        "details": "Cairo street 29,block1",
+        "city": "Cairo",
+        "phone": "01234567890"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 51996,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697669e27a59265e56a205b2",
+      "user": {
+        "_id": "6974c811fc9a21e0e6512a1e",
+        "name": "Khaled",
+        "email": "muhammed.khaled.dev@gmail.com",
+        "phone": "01555709645"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697669907a59265e56a204eb",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6408da1c6406cd15828e8f0a",
+            "title": "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678301723274-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089faf24b25627a25315cd",
+              "name": "Dell",
+              "slug": "dell",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286767914.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408da1c6406cd15828e8f0a"
+          },
+          "price": 42960
+        },
+        {
+          "count": 1,
+          "_id": "6976699d7a59265e56a2051e",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 3,
+            "_id": "6428c320dc1175abc65ca008",
+            "title": "Crew Neck Long Sleeve Men's Knitwear Sweater",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680392991271-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d9e24b25627a25315a5",
+              "name": "LC Waikiki",
+              "slug": "lc-waikiki",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+            },
+            "ratingsAverage": 4.7,
+            "id": "6428c320dc1175abc65ca008"
+          },
+          "price": 449
+        },
+        {
+          "count": 1,
+          "_id": "6976699f7a59265e56a20528",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 16,
+            "_id": "6428be2bdc1175abc65c9fe6",
+            "title": "Crew Neck Long Sleeve Striped Men's Knitwear Sweater",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680391722468-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d9e24b25627a25315a5",
+              "name": "LC Waikiki",
+              "slug": "lc-waikiki",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+            },
+            "ratingsAverage": 3,
+            "id": "6428be2bdc1175abc65c9fe6"
+          },
+          "price": 549
+        },
+        {
+          "count": 2,
+          "_id": "697669a17a59265e56a20530",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3c0b575d3b90bf957e8",
+                "name": "Video Games",
+                "slug": "video-games",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e1266406cd15828e8f1c",
+            "title": "PS5 DualSense Charging Station",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303526206-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089df124b25627a25315ab",
+              "name": "Samsung",
+              "slug": "samsung",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286321029.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e1266406cd15828e8f1c"
+          },
+          "price": 1045
+        },
+        {
+          "count": 1,
+          "_id": "697669a37a59265e56a20539",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e05d6406cd15828e8f16",
+            "title": "Galaxy Buds 2 Graphite",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303324588-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089f5824b25627a25315c7",
+              "name": "SONY",
+              "slug": "sony",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e05d6406cd15828e8f16"
+          },
+          "price": 3999
+        },
+        {
+          "count": 1,
+          "_id": "697669a37a59265e56a20545",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 397,
+            "_id": "6408de536406cd15828e8f10",
+            "title": "WH-CH510 Wireless On-Ear Bluetooth Headphones Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678302803089-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089f5824b25627a25315c7",
+              "name": "SONY",
+              "slug": "sony",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408de536406cd15828e8f10"
+          },
+          "price": 1949
+        }
+      ],
+      "paidAt": "2026-01-25T19:07:14.107Z",
+      "createdAt": "2026-01-25T19:07:14.116Z",
+      "updatedAt": "2026-01-25T19:07:14.116Z",
+      "id": 75898
+    },
+    {
+      "shippingAddress": {
+        "details": "Cairo street 29 block1",
+        "city": "cairo",
+        "phone": "01234567890"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 29928,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697667e27a59265e56a20010",
+      "user": {
+        "_id": "6974c811fc9a21e0e6512a1e",
+        "name": "Khaled",
+        "email": "muhammed.khaled.dev@gmail.com",
+        "phone": "01555709645"
+      },
+      "cartItems": [
+        {
+          "count": 3,
+          "_id": "69765d35ea9ffc5d82700862",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 1,
+            "_id": "6428c5b7dc1175abc65ca019",
+            "title": "Galaxy 6 Running Shoes",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680393655068-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 5,
+            "id": "6428c5b7dc1175abc65ca019"
+          },
+          "price": 1629
+        },
+        {
+          "count": 1,
+          "_id": "697667757a59265e56a1fec4",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 17,
+            "_id": "6428cb19dc1175abc65ca031",
+            "title": "Salah Track Top",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680395032949-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 3.2,
+            "id": "6428cb19dc1175abc65ca031"
+          },
+          "price": 1749
+        },
+        {
+          "count": 1,
+          "_id": "697667957a59265e56a1ff44",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3ccb575d3b90bf957eb",
+                "name": "Cameras & Accessories",
+                "slug": "cameras-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 60,
+            "_id": "6408e43a6406cd15828e8f22",
+            "title": "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678304313006-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089fe824b25627a25315d1",
+              "name": "Canon",
+              "slug": "canon",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e43a6406cd15828e8f22"
+          },
+          "price": 19699
+        },
+        {
+          "count": 1,
+          "_id": "697667977a59265e56a1ff4c",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 397,
+            "_id": "6408de536406cd15828e8f10",
+            "title": "WH-CH510 Wireless On-Ear Bluetooth Headphones Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678302803089-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089f5824b25627a25315c7",
+              "name": "SONY",
+              "slug": "sony",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408de536406cd15828e8f10"
+          },
+          "price": 1949
+        },
+        {
+          "count": 1,
+          "_id": "6976679a7a59265e56a1ff5c",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3c0b575d3b90bf957e8",
+                "name": "Video Games",
+                "slug": "video-games",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e1266406cd15828e8f1c",
+            "title": "PS5 DualSense Charging Station",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303526206-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089df124b25627a25315ab",
+              "name": "Samsung",
+              "slug": "samsung",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286321029.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e1266406cd15828e8f1c"
+          },
+          "price": 1045
+        },
+        {
+          "count": 1,
+          "_id": "6976679d7a59265e56a1ff67",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 3,
+            "_id": "6428c0fedc1175abc65c9ffd",
+            "title": "Crew Neck Long Sleeve Striped Men's Tricot Sweater",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680392445443-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d9e24b25627a25315a5",
+              "name": "LC Waikiki",
+              "slug": "lc-waikiki",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+            },
+            "ratingsAverage": 2,
+            "id": "6428c0fedc1175abc65c9ffd"
+          },
+          "price": 599
+        }
+      ],
+      "paidAt": "2026-01-25T18:58:42.057Z",
+      "createdAt": "2026-01-25T18:58:42.064Z",
+      "updatedAt": "2026-01-25T18:58:42.064Z",
+      "id": 75897
+    },
+    {
+      "shippingAddress": {
+        "details": "",
+        "city": "",
+        "phone": ""
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 340,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6976677c7a59265e56a1fed7",
+      "user": {
+        "_id": "697648d0ad15994850370233",
+        "name": "Omar Sabry",
+        "email": "omarsabry7891011@gmail.com",
+        "phone": "01234567890"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697666667a59265e56a1fbe8",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        },
+        {
+          "count": 1,
+          "_id": "697666687a59265e56a1fbf4",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-25T18:57:00.137Z",
+      "createdAt": "2026-01-25T18:57:00.141Z",
+      "updatedAt": "2026-01-25T18:57:00.141Z",
+      "id": 75896
+    },
+    {
+      "shippingAddress": {
+        "details": "Tghhhgfff",
+        "phone": "01012345678",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 149,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "6976661a7a59265e56a1facf",
+      "user": {
+        "_id": "697665487a59265e56a1f823",
+        "name": "Bashar Katrib",
+        "email": "bashar2@gmail.com",
+        "phone": "01012345678"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697665e47a59265e56a1fa16",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        }
+      ],
+      "paidAt": "2026-01-25T18:51:06.115Z",
+      "createdAt": "2026-01-25T18:51:06.120Z",
+      "updatedAt": "2026-01-25T18:51:06.120Z",
+      "id": 75895
+    },
+    {
+      "shippingAddress": {
+        "details": "Tghhhgfff",
+        "phone": "01012345678",
+        "city": "Cairo"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 191,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697665ca7a59265e56a1f98d",
+      "user": {
+        "_id": "697665487a59265e56a1f823",
+        "name": "Bashar Katrib",
+        "email": "bashar2@gmail.com",
+        "phone": "01012345678"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697665677a59265e56a1f856",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        }
+      ],
+      "createdAt": "2026-01-25T18:49:46.311Z",
+      "updatedAt": "2026-01-25T18:49:46.311Z",
+      "id": 75894
+    },
+    {
+      "shippingAddress": {
+        "details": "Jhdd",
+        "phone": "01012647350",
+        "city": "Alex"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 191,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697662c2ea9ffc5d827011e4",
+      "user": {
+        "_id": "69763740ad1599485036ebda",
+        "name": "Mohamed",
+        "email": "mhmed@gmail.com",
+        "phone": "01016494945"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "6976629aea9ffc5d827010f1",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        }
+      ],
+      "paidAt": "2026-01-25T18:36:50.996Z",
+      "createdAt": "2026-01-25T18:36:51.000Z",
+      "updatedAt": "2026-01-25T18:36:51.000Z",
+      "id": 75893
+    },
+    {
+      "shippingAddress": {
+        "details": "",
+        "phone": "",
+        "city": ""
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 3039,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697661acea9ffc5d82700f33",
+      "user": {
+        "_id": "697648d0ad15994850370233",
+        "name": "Omar Sabry",
+        "email": "omarsabry7891011@gmail.com",
+        "phone": "01234567890"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69765828ea9ffc5d82700151",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ebc6dc1175abc65ca0b9",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403397402-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ebc6dc1175abc65ca0b9"
+          },
+          "price": 191
+        },
+        {
+          "count": 1,
+          "_id": "6976582eea9ffc5d8270015a",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 1,
+            "_id": "6428e319dc1175abc65ca06d",
+            "title": "Woman Karma Socks Multicolour",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680401176411-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 2,
+            "id": "6428e319dc1175abc65ca06d"
+          },
+          "price": 199
+        },
+        {
+          "count": 1,
+          "_id": "69765832ea9ffc5d8270016f",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 20,
+            "_id": "6428dd2edc1175abc65ca055",
+            "title": "ESS Big Logo Hoodie TR Puma Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680399661234-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d5c24b25627a253159f",
+              "name": "Puma",
+              "slug": "puma",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286172219.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428dd2edc1175abc65ca055"
+          },
+          "price": 2649
+        }
+      ],
+      "createdAt": "2026-01-25T18:32:12.876Z",
+      "updatedAt": "2026-01-25T18:32:12.876Z",
+      "id": 75892
+    },
+    {
+      "shippingAddress": {
+        "details": "Online payment ",
+        "phone": "01012647350",
+        "city": "Alexandria"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 69652,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69765d40ea9ffc5d82700887",
+      "user": {
+        "_id": "6946daeb94b7194cd0df6709",
+        "name": "mohammed",
+        "email": "hamoz@gmail.com",
+        "phone": "01012647350"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69765c43ea9ffc5d827006cc",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6408da1c6406cd15828e8f0a",
+            "title": "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678301723274-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089faf24b25627a25315cd",
+              "name": "Dell",
+              "slug": "dell",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286767914.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408da1c6406cd15828e8f0a"
+          },
+          "price": 42960
+        },
+        {
+          "count": 1,
+          "_id": "69765c48ea9ffc5d827006e8",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 397,
+            "_id": "6408de536406cd15828e8f10",
+            "title": "WH-CH510 Wireless On-Ear Bluetooth Headphones Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678302803089-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089f5824b25627a25315c7",
+              "name": "SONY",
+              "slug": "sony",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408de536406cd15828e8f10"
+          },
+          "price": 1949
+        },
+        {
+          "count": 1,
+          "_id": "69765c49ea9ffc5d827006f6",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e05d6406cd15828e8f16",
+            "title": "Galaxy Buds 2 Graphite",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303324588-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089f5824b25627a25315c7",
+              "name": "SONY",
+              "slug": "sony",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e05d6406cd15828e8f16"
+          },
+          "price": 3999
+        },
+        {
+          "count": 1,
+          "_id": "69765cf9ea9ffc5d8270080c",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3c0b575d3b90bf957e8",
+                "name": "Video Games",
+                "slug": "video-games",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e1266406cd15828e8f1c",
+            "title": "PS5 DualSense Charging Station",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303526206-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089df124b25627a25315ab",
+              "name": "Samsung",
+              "slug": "samsung",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286321029.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e1266406cd15828e8f1c"
+          },
+          "price": 1045
+        },
+        {
+          "count": 1,
+          "_id": "69765cfbea9ffc5d8270081a",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3ccb575d3b90bf957eb",
+                "name": "Cameras & Accessories",
+                "slug": "cameras-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 60,
+            "_id": "6408e43a6406cd15828e8f22",
+            "title": "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678304313006-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089fe824b25627a25315d1",
+              "name": "Canon",
+              "slug": "canon",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e43a6406cd15828e8f22"
+          },
+          "price": 19699
+        }
+      ],
+      "paidAt": "2026-01-25T18:13:20.262Z",
+      "createdAt": "2026-01-25T18:13:20.268Z",
+      "updatedAt": "2026-01-25T18:13:20.268Z",
+      "id": 75891
+    },
+    {
+      "shippingAddress": {
+        "details": "ءبيلسيبس بسي",
+        "phone": "01271556719",
+        "city": "Alexandria"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 1846,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697659bcea9ffc5d8270032b",
+      "user": {
+        "_id": "69368c902037f0d2901d4288",
+        "name": "ahmed32",
+        "email": "ahmedelhossinsm@gmail.com",
+        "phone": "01271556719"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697659a6ea9ffc5d827002dc",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 5,
+            "_id": "6428e5e6dc1175abc65ca084",
+            "title": "Woman Standart Fit Knitted Cardigan",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680401893316-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428e5e6dc1175abc65ca084"
+          },
+          "price": 499
+        },
+        {
+          "count": 1,
+          "_id": "697659a8ea9ffc5d827002e5",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 10,
+            "_id": "6428e884dc1175abc65ca096",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402563605-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.2,
+            "id": "6428e884dc1175abc65ca096"
+          },
+          "price": 349
+        },
+        {
+          "count": 1,
+          "_id": "697659abea9ffc5d827002ed",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 10,
+            "_id": "6428e7ecdc1175abc65ca090",
+            "title": "Woman Bordeaux Long Sleeve Blouse BORDEAUX",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402411833-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.2,
+            "id": "6428e7ecdc1175abc65ca090"
+          },
+          "price": 499
+        },
+        {
+          "count": 1,
+          "_id": "697659afea9ffc5d827002fb",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 5,
+            "_id": "6428e778dc1175abc65ca08a",
+            "title": "Woman Brown Long Sleeve Tunic LT.CAMEL",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402295928-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.7,
+            "id": "6428e778dc1175abc65ca08a"
+          },
+          "price": 499
+        }
+      ],
+      "createdAt": "2026-01-25T17:58:20.689Z",
+      "updatedAt": "2026-01-25T17:58:20.689Z",
+      "id": 75890
+    },
+    {
+      "shippingAddress": {
+        "details": "ءبيلسيبس بسيzdfdasssssssssssssss",
+        "phone": "01271556719",
+        "city": "Alexandria"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 447,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69765969ea9ffc5d827002a0",
+      "user": {
+        "_id": "69368c902037f0d2901d4288",
+        "name": "ahmed32",
+        "email": "ahmedelhossinsm@gmail.com",
+        "phone": "01271556719"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697657c1ad1599485037218a",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        },
+        {
+          "count": 1,
+          "_id": "697657c3ad15994850372195",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ead5dc1175abc65ca0ad"
+          },
+          "price": 149
+        },
+        {
+          "count": 1,
+          "_id": "697657c6ad159948503721a5",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428e997dc1175abc65ca0a1",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402838276-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428e997dc1175abc65ca0a1"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-25T17:56:57.660Z",
+      "updatedAt": "2026-01-25T17:56:57.660Z",
+      "id": 75889
+    },
+    {
+      "shippingAddress": {
+        "details": "",
+        "phone": "",
+        "city": ""
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 447,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69765690ad15994850371f69",
+      "user": {
+        "_id": "69368c902037f0d2901d4288",
+        "name": "ahmed32",
+        "email": "ahmedelhossinsm@gmail.com",
+        "phone": "01271556719"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69765343ad1599485037188c",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428eb43dc1175abc65ca0b3",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403266739-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428eb43dc1175abc65ca0b3"
+          },
+          "price": 149
+        },
+        {
+          "count": 1,
+          "_id": "69765345ad1599485037189b",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ead5dc1175abc65ca0ad"
+          },
+          "price": 149
+        },
+        {
+          "count": 1,
+          "_id": "69765346ad159948503718a8",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428e997dc1175abc65ca0a1",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402838276-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428e997dc1175abc65ca0a1"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-25T17:44:48.684Z",
+      "updatedAt": "2026-01-25T17:44:48.684Z",
+      "id": 75888
+    },
+    {
+      "shippingAddress": {
+        "details": "Cairo street 29 ,block1",
+        "city": "Cairo",
+        "phone": "01234567890"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 97553,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69765013ad1599485037142c",
+      "user": {
+        "_id": "6974c811fc9a21e0e6512a1e",
+        "name": "Khaled",
+        "email": "muhammed.khaled.dev@gmail.com",
+        "phone": "01555709645"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "69764e73ad159948503710e9",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 497,
+            "_id": "6408e05d6406cd15828e8f16",
+            "title": "Galaxy Buds 2 Graphite",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678303324588-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089f5824b25627a25315c7",
+              "name": "SONY",
+              "slug": "sony",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286680638.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e05d6406cd15828e8f16"
+          },
+          "price": 3999
+        },
+        {
+          "count": 1,
+          "_id": "69764fbfad15994850371374",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6408da1c6406cd15828e8f0a",
+            "title": "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678301723274-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089faf24b25627a25315cd",
+              "name": "Dell",
+              "slug": "dell",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286767914.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408da1c6406cd15828e8f0a"
+          },
+          "price": 42960
+        },
+        {
+          "count": 2,
+          "_id": "69764fc8ad159948503713a7",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 17,
+            "_id": "6428cb19dc1175abc65ca031",
+            "title": "Salah Track Top",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680395032949-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 3.2,
+            "id": "6428cb19dc1175abc65ca031"
+          },
+          "price": 1749
+        },
+        {
+          "count": 1,
+          "_id": "69764fccad159948503713bd",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3e3b575d3b90bf957f1",
+                "name": "Networking Products",
+                "slug": "networking-products",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 200,
+            "_id": "6408e98e6406cd15828e8f30",
+            "title": "Archer VR300 AC1200 Wireless VDSL/ADSL Modem Router Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678305677165-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089fe824b25627a25315d1",
+              "name": "Canon",
+              "slug": "canon",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+            },
+            "ratingsAverage": 4.5,
+            "id": "6408e98e6406cd15828e8f30"
+          },
+          "price": 1699
+        },
+        {
+          "count": 1,
+          "_id": "69764fcead159948503713c5",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3d8b575d3b90bf957ee",
+                "name": "Printers & Accessories",
+                "slug": "printers-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 60,
+            "_id": "6408e5fd6406cd15828e8f28",
+            "title": "PIXMA G3420 Multi-Function Inkjet Printer Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678304764905-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089fe824b25627a25315d1",
+              "name": "Canon",
+              "slug": "canon",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+            },
+            "ratingsAverage": 4.5,
+            "id": "6408e5fd6406cd15828e8f28"
+          },
+          "price": 5999
+        },
+        {
+          "count": 2,
+          "_id": "69764fcfad159948503713cd",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3ccb575d3b90bf957eb",
+                "name": "Cameras & Accessories",
+                "slug": "cameras-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 60,
+            "_id": "6408e43a6406cd15828e8f22",
+            "title": "EOS M50 Mark II Mirrorless Digital Camera With 15-45mm Lens Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678304313006-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089fe824b25627a25315d1",
+              "name": "Canon",
+              "slug": "canon",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408e43a6406cd15828e8f22"
+          },
+          "price": 19699
+        }
+      ],
+      "paidAt": "2026-01-25T17:17:07.658Z",
+      "createdAt": "2026-01-25T17:17:07.665Z",
+      "updatedAt": "2026-01-25T17:17:07.665Z",
+      "id": 75886
+    },
+    {
+      "shippingAddress": {
+        "details": "Cairo street 29 ,block 1",
+        "city": "Cairo",
+        "phone": "01234567890"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 62932,
+      "paymentMethodType": "card",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "69764d5aad15994850370e7f",
+      "user": {
+        "_id": "6974c811fc9a21e0e6512a1e",
+        "name": "Khaled",
+        "email": "muhammed.khaled.dev@gmail.com",
+        "phone": "01555709645"
+      },
+      "cartItems": [
+        {
+          "count": 3,
+          "_id": "69764bd9ad15994850370ac6",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 17,
+            "_id": "6428cb19dc1175abc65ca031",
+            "title": "Salah Track Top",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680395032949-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 3.2,
+            "id": "6428cb19dc1175abc65ca031"
+          },
+          "price": 1749
+        },
+        {
+          "count": 2,
+          "_id": "69764be3ad15994850370ae3",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 3,
+            "_id": "6428c3b8dc1175abc65ca00e",
+            "title": "Slim Fit Long Sleeve Dobby Men's Shirt",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680393143423-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089d9e24b25627a25315a5",
+              "name": "LC Waikiki",
+              "slug": "lc-waikiki",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286238428.png"
+            },
+            "ratingsAverage": 4.7,
+            "id": "6428c3b8dc1175abc65ca00e"
+          },
+          "price": 549
+        },
+        {
+          "count": 1,
+          "_id": "69764d08ad15994850370d28",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3a8b575d3b90bf957e2",
+                "name": "Laptops & Accessories",
+                "slug": "laptops-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 6,
+            "_id": "6408da1c6406cd15828e8f0a",
+            "title": "Victus 16-D1016Ne Laptop With 16-Inch Display Core I7-12700H Processor 16Gb Ram 1Tb Nvidia Geforce Rtx3050 Ti Graphics English/Arabic Ceramic White",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678301723274-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089faf24b25627a25315cd",
+              "name": "Dell",
+              "slug": "dell",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286767914.png"
+            },
+            "ratingsAverage": 4.3,
+            "id": "6408da1c6406cd15828e8f0a"
+          },
+          "price": 42960
+        },
+        {
+          "count": 1,
+          "_id": "69764d12ad15994850370d8a",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f243b575d3b90bf957ac",
+                "name": "Men's Clothing",
+                "slug": "men's-clothing",
+                "category": "6439d5b90049ad0b52b90048"
+              }
+            ],
+            "ratingsQuantity": 1,
+            "_id": "6428c5b7dc1175abc65ca019",
+            "title": "Galaxy 6 Running Shoes",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680393655068-cover.jpeg",
+            "category": {
+              "_id": "6439d5b90049ad0b52b90048",
+              "name": "Men's Fashion",
+              "slug": "men's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511865180.jpeg"
+            },
+            "brand": {
+              "_id": "64089c3924b25627a2531593",
+              "name": "Adidas",
+              "slug": "adidas",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285881943.png"
+            },
+            "ratingsAverage": 5,
+            "id": "6428c5b7dc1175abc65ca019"
+          },
+          "price": 1629
+        },
+        {
+          "count": 2,
+          "_id": "69764d16ad15994850370db0",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f3d8b575d3b90bf957ee",
+                "name": "Printers & Accessories",
+                "slug": "printers-and-accessories",
+                "category": "6439d2d167d9aa4ca970649f"
+              }
+            ],
+            "ratingsQuantity": 60,
+            "_id": "6408e5fd6406cd15828e8f28",
+            "title": "PIXMA G3420 Multi-Function Inkjet Printer Black",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1678304764905-cover.jpeg",
+            "category": {
+              "_id": "6439d2d167d9aa4ca970649f",
+              "name": "Electronics",
+              "slug": "electronics",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511121316.png"
+            },
+            "brand": {
+              "_id": "64089fe824b25627a25315d1",
+              "name": "Canon",
+              "slug": "canon",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678286824747.png"
+            },
+            "ratingsAverage": 4.5,
+            "id": "6408e5fd6406cd15828e8f28"
+          },
+          "price": 5999
+        }
+      ],
+      "paidAt": "2026-01-25T17:05:30.639Z",
+      "createdAt": "2026-01-25T17:05:30.647Z",
+      "updatedAt": "2026-01-25T17:05:30.647Z",
+      "id": 75885
+    },
+    {
+      "shippingAddress": {
+        "details": "wdfdsffdffds",
+        "city": "dfvdfdfdf",
+        "phone": "01234567890"
+      },
+      "taxPrice": 0,
+      "shippingPrice": 0,
+      "totalOrderPrice": 298,
+      "paymentMethodType": "cash",
+      "status": "pending",
+      "isDelivered": false,
+      "_id": "697647eaad15994850370093",
+      "user": {
+        "_id": "6974c811fc9a21e0e6512a1e",
+        "name": "Khaled",
+        "email": "muhammed.khaled.dev@gmail.com",
+        "phone": "01555709645"
+      },
+      "cartItems": [
+        {
+          "count": 1,
+          "_id": "697647bead15994850370026",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428ead5dc1175abc65ca0ad",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680403156501-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428ead5dc1175abc65ca0ad"
+          },
+          "price": 149
+        },
+        {
+          "count": 1,
+          "_id": "697647bfad1599485037002f",
+          "product": {
+            "subcategory": [
+              {
+                "_id": "6407f1bcb575d3b90bf95797",
+                "name": "Women's Clothing",
+                "slug": "women's-clothing",
+                "category": "6439d58a0049ad0b52b9003f"
+              }
+            ],
+            "ratingsQuantity": 18,
+            "_id": "6428e997dc1175abc65ca0a1",
+            "title": "Woman Shawl",
+            "imageCover": "https://ecommerce.routemisr.com/Route-Academy-products/1680402838276-cover.jpeg",
+            "category": {
+              "_id": "6439d58a0049ad0b52b9003f",
+              "name": "Women's Fashion",
+              "slug": "women's-fashion",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-categories/1681511818071.jpeg"
+            },
+            "brand": {
+              "_id": "64089bbe24b25627a253158b",
+              "name": "DeFacto",
+              "slug": "defacto",
+              "image": "https://ecommerce.routemisr.com/Route-Academy-brands/1678285758109.png"
+            },
+            "ratingsAverage": 4.8,
+            "id": "6428e997dc1175abc65ca0a1"
+          },
+          "price": 149
+        }
+      ],
+      "createdAt": "2026-01-25T16:42:18.301Z",
+      "updatedAt": "2026-01-25T16:42:18.301Z",
+      "id": 75884
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "_id": "681256248c34b6db5b409409",
+      "cartOwner": "680625af8e515952f1de6f53",
+      "products": [
+        {
+          "_id": "682265f6dd1665bacfb11b50",
+          "productId": "6428eb43dc1175abc65ca0b3",
+          "count": 4,
+          "price": 149
+        },
+        {
+          "_id": "682265fbdd1665bacfb11b87",
+          "productId": "6428e7ecdc1175abc65ca090",
+          "count": 2,
+          "price": 499
+        }
+      ],
+      "totalCartPrice": 2832,
+      "createdAt": "2025-04-30T16:56:04.997Z",
+      "updatedAt": "2026-01-26T20:28:15.956Z"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1,
+      "_id": "wishlist001",
+      "userId": "680625af8e515952f1de6f53",
+      "products": [
+        {
+          "_id": "wish001",
+          "productId": "6428ebc6dc1175abc65ca0b9",
+          "addedAt": "2025-01-26T20:00:00.000Z"
+        },
+        {
+          "_id": "wish002",
+          "productId": "6428eb43dc1175abc65ca0b3",
+          "addedAt": "2025-01-26T20:01:00.000Z"
+        }
+      ],
+      "createdAt": "2025-01-26T20:00:00.000Z",
+      "updatedAt": "2025-01-26T20:01:00.000Z"
+    }
+  ]
+}

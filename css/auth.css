@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma;
+}
+
+header {
+    border-bottom: 1px solid #eee;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 93%;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+
+nav img {
+    width: 150px;
+}
+.loginBtn{
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.2s linear;
+}
+nav button:hover .loginBtn:hover{
+    color: #787878;
+}
+
+.main {
+    width: 75%;
+    margin: 30px auto;
+}
+
+h1 {
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+    color: #333;
+
+}
+
+.form-group input {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 10px 12px;
+    border-radius: 8px;
+    outline: none;
+    transition: all 0.3s linear;
+    margin-bottom: 4px;
+}
+
+input:focus {
+    border-color: #667eea;
+    box-shadow: 0 0 0 2px rgba(102, 126, 234, 0.1);
+
+}
+
+button {
+    border: none;
+    outline: none;
+    padding: 12px 40px;
+    background: #000;
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s linear;
+}
+
+button:hover {
+    color: #787878;
+}
+
+.rememberMe,
+.conditions {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    gap: 3px;
+}
+
+#conditions,
+#rememberMe {
+    margin-top: 3px;
+    accent-color: #000;
+}
+
+small {
+    color: #ef4444;
+    align-items: center;
+    gap: 4px;
+    font-size: 14px;
+}
+
+#name-error,
+#email-error,
+#phNumber-error,
+#password-error,
+#rePassword-error {
+    display: none;
+}
+
+.rememberMe input,
+.rememberMe label,
+.conditions input,
+.conditions label {
+    cursor: pointer;
+}
+
+.toast {
+    position: fixed;
+    bottom: -100px;
+    right: 30px;
+    color: white;
+    padding: 16px 24px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 500;
+    z-index: 9999;
+    transition: bottom 0.4s linear;
+    min-width: 250px;
+    text-align: center;
+}
+
+.toast.show {
+    bottom: 30px;
+}
+
+.toast.success {
+    background: #10b981;
+}
+
+.toast.error {
+    background: #ef4444;
+}

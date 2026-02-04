@@ -1,0 +1,578 @@
+body {
+    font-family: 'Segoe UI', Tahoma;
+    visibility: hidden;
+}
+
+body.authenticated {
+    visibility: visible;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 230px 1fr;
+    min-height: 98vh;
+    border-radius: 10px;
+    background-color: #11181e;
+}
+
+.container .section {
+    display: none;
+}
+
+.container .active {
+    display: block;
+}
+
+.sideBar {
+    position: sticky;
+    top: 0;
+    height: 95vh;
+    background-color: #11181e;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.logo {
+    width: 130px;
+    padding: 30px 25px 0;
+}
+
+.tabs {
+    margin-top: 25px;
+}
+
+.tabs ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 75vh;
+}
+
+.tabs li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #ddd;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 12px;
+    margin: 7px 10px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+svg {
+    margin-top: 4px;
+}
+
+.tabs li:hover,
+.tabs li.active {
+    background-color: #fff;
+    color: #11181e;
+}
+
+.tabs li:hover svg path,
+.tabs li:hover svg line,
+.tabs li:hover svg polygon:not([fill]),
+.tabs li.active svg path,
+.tabs li.active svg line,
+.tabs li.active svg polygon:not([fill]) {
+    stroke: #11181e;
+}
+
+.tabs li:hover svg polygon[fill],
+.tabs li.active svg polygon[fill] {
+    stroke: none;
+}
+
+.logOutContainer {
+    margin-top: auto;
+}
+
+.logOut {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #ddd;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 12px;
+    margin: 7px 10px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: all 0.2s linear;
+}
+
+.logOut:hover {
+    background: #0a0e11
+}
+
+.container {
+    background-color: #f4f4ec;
+    border-radius: 10px;
+    margin: 7px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    padding: 0 35px;
+    background-color: #f3f3eb;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.table {
+    padding: 0 35px;
+}
+
+.container h1 {
+    font-weight: 400;
+    margin: 15px 0;
+}
+
+.dashboard-header {
+    margin: 10px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.search {
+    width: 300px;
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease;
+}
+
+.search svg {
+    margin-top: 0;
+}
+
+.search:focus-within {
+    border-color: #667eea;
+    box-shadow: 0 0 0 1px rgba(102, 126, 234, 0.1);
+}
+
+.searchInput {
+    width: 100%;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    padding: 6px 10px;
+    margin-top: 2px;
+}
+
+.profile-card {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-radius: 10px;
+}
+
+.profile-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-name {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+}
+
+.profile-email {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+}
+
+
+table {
+    width: 95%;
+    border-collapse: collapse;
+    margin-top: 25px;
+}
+
+th {
+    padding: 16px;
+    text-align: left;
+    font-weight: 500;
+    font-size: 14px;
+    color: #333;
+    border-bottom: 1px solid #ddd;
+}
+
+td {
+    padding: 15px;
+    font-size: 14px;
+}
+
+tbody tr {
+    transition: background-color 0.2s linear;
+}
+
+tbody tr:hover {
+    background: #fafafa;
+}
+
+.customer {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.customer img {
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.status-box,
+.crud {
+    position: relative;
+    display: inline-block;
+}
+
+.status {
+    display: inline-block;
+    padding: 6px 14px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.status.pending {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+/* Confirmed - أخضر فاتح */
+.status.confirmed {
+    background: #d1fae5;
+    color: #065f46;
+}
+
+/* Rejected - أحمر */
+.status.rejected {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.dropdown,
+.crud-dropdown {
+    display: none;
+    position: absolute;
+    top: 40px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    min-width: 135px;
+    z-index: 100;
+}
+
+.dropdown.show,
+.crud-dropdown.show {
+    display: block;
+}
+
+.dropdown div,
+.crud-dropdown div {
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.dropdown div:hover,
+.crud-dropdown div:hover {
+    background: #f5f5f5;
+}
+
+.crud-delete {
+    color: #DC2626;
+}
+
+.order-id {
+    color: #333;
+    font-weight: 500;
+}
+
+.crud-btn {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 4px 8px;
+    color: #666;
+    border-radius: 6px;
+    transition: all 0.2s linear;
+}
+
+.crud-btn:hover {
+    background: #f0f0f0;
+}
+
+.price span {
+    font-size: 12px;
+    line-height: 15px;
+}
+
+#deletePopup,
+#productPopup,
+#categoryPopup {
+    border: none;
+    width: 400px;
+    border-radius: 10px;
+}
+
+#deletePopup[open] {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+    padding: 30px 0;
+}
+
+#deletePopup::backdrop,
+#productPopup::backdrop,
+#categoryPopup::backdrop {
+    background: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(1px);
+}
+
+.deletePopupContent h2 {
+    color: #11181e;
+    font-weight: 700;
+    letter-spacing: 0.6px;
+    margin: 8px 0 5px;
+}
+
+.deletePopupContent .selectedProduct {
+    color: #646464;
+    margin: 0;
+}
+
+.deletePopupContent {
+    text-align: center;
+}
+
+.deletePopupButtons {
+    display: flex;
+    gap: 15px;
+}
+
+.deletePopupButtons button {
+    border: none;
+    padding: 8px 40px;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.deletePopupButtons .deletePopupDeletebtn {
+    background-color: #d21e24;
+    color: #fff;
+}
+
+.deletePopupButtons .deletePopupDeletebtn:hover {
+    background-color: #8c1d28;
+}
+
+.deletePopupButtons .deletePopupCancelbtn {
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+
+.deletePopupButtons .deletePopupCancelbtn:hover {
+    background-color: #ededed;
+}
+
+.closeDeletePopupIcon,
+.closeProductPopupIcon,
+.closeCategoryPopupIcon {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    cursor: pointer;
+}
+
+#productPopup{
+    width: 550px;
+}
+
+#productPopup[open] {
+    display: block;
+}
+#categoryPopup[open] {
+    display: block;
+}
+
+.productPopupContent,
+.categoryPopupContent{
+    padding: 30px 45px 30px 20px;
+}
+
+.productPopupContent h2,
+.categoryPopupContent h2 {
+    margin: 10px 0 25px 0;
+    color: #11181e;
+    font-weight: 600;
+    font-size: 22px;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+.form-group.full-width {
+    width: 100%;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 6px;
+    color: #333;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 14px;
+    transition: all 0.25s ease-in-out;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 1px rgba(102, 126, 234, 0.1);
+}
+
+.form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+}
+
+.productPopupButtons,
+.categoryPopupButtons {
+    display: flex;
+    gap: 12px;
+    padding: 0 40px 20px;
+}
+
+.productPopupButtons button,
+.categoryPopupButtons button {
+    flex: 1;
+    border: none;
+    padding: 11px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.productPopupSubmitbtn,
+.categoryPopupSubmitbtn {
+    background-color: #000;
+    color: #fff;
+}
+
+.productPopupSubmitbtn:hover,
+.categoryPopupSubmitbtn:hover {
+    color: #787878;
+}
+
+.closeProductPopup,
+.closeCategoryPopup {
+    background-color: #fff;
+    border: 1px solid #ddd !important;
+    color: #333;
+}
+
+.closeProductPopup:hover,
+.closeCategoryPopup:hover {
+    background-color: #ededed;
+}
+
+.toast {
+    position: fixed;
+    bottom: -100px;
+    right: 30px;
+    color: white;
+    padding: 16px 24px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 500;
+    z-index: 9999;
+    transition: bottom 0.4s linear;
+    min-width: 250px;
+    text-align: center;
+}
+
+.toast.show {
+    bottom: 30px;
+}
+
+.toast.success {
+    background: #10b981;
+}
+
+.toast.error {
+    background: #ef4444;
+}
+
+.addProductBtn,
+.addCategoryBtn {
+    position: fixed;
+    right: 30px;
+    bottom: -50px;
+    background-color: #11181e;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 20px;
+    line-height: 12px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.addProductBtn:hover,
+.addCategoryBtn:hover {
+    background-color: rgb(18, 25, 34);
+    transform: translateY(-1px);
+}
+
+.addProductBtn svg,
+.addCategoryBtn svg {
+    margin-top: 0;
+}
