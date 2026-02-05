@@ -111,6 +111,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 if (!isAdded) {
                     // ADD
+                    const userData = localStorage.getItem('userData');
+                    const user = userData ? JSON.parse(userData) : null;
                     const card = icon.closest('.product-card');
                     const productImage = card.querySelector('img').src;
                     const productPrice = card.querySelector('p').innerText;
@@ -125,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             if (wishNum) wishNum.innerText = updatedWish.length;
                         }
                     };
-                    xhrAddWish.send(JSON.stringify({ id: productId, name: productName, image: productImage, price: productPrice }));
+                    xhrAddWish.send(JSON.stringify({ id: productId, name: productName, image: productImage, price: productPrice, userEmail: user ? user.email : 'guest' }));
                 } else {
                     // REMOVE
                     const xhrRemWish = new XMLHttpRequest();
@@ -169,6 +171,8 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function addItemToCart(productData) {
+        const userData = localStorage.getItem('userData');
+        const user = userData ? JSON.parse(userData) : null;
         const numericPrice = parseFloat(productData.price.replace('$', ''));
         const itemToAdd = {
             id: productData.id,
@@ -176,7 +180,8 @@ document.addEventListener('DOMContentLoaded', function () {
             price: productData.price,
             image: productData.image,
             numericPrice: numericPrice,
-            quantity: 1
+            quantity: 1,
+            userEmail: user ? user.email : 'guest'
         };
 
         const xhrGetCart = new XMLHttpRequest();
@@ -225,6 +230,48 @@ document.addEventListener('DOMContentLoaded', function () {
             darkModeBtn.classList.replace(isDark ? 'fa-moon' : 'fa-sun', isDark ? 'fa-sun' : 'fa-moon');
         };
     }
+
+    //////////
+    // update wishlist counter
+
+    function updateNavbarCounters() {
+        const userData = localStorage.getItem('userData');
+        const userToken = localStorage.getItem('userToken');
+        const user = userData ? JSON.parse(userData) : null;
+
+        var xhrWish = new XMLHttpRequest();
+        xhrWish.open('GET', 'http://localhost:3000/wishlist/', true);
+        xhrWish.setRequestHeader('Authorization', 'Bearer ' + userToken);
+        xhrWish.onreadystatechange = function () {
+            if (xhrWish.readyState === 4 && xhrWish.status === 200) {
+                const wishlist = JSON.parse(xhrWish.responseText);
+                let filteredWishlist = wishlist;
+                if (user && user.email) {
+                    filteredWishlist = wishlist.filter(item => item.userEmail === user.email);
+                }
+                if (wishNum) wishNum.innerText = filteredWishlist.length;
+            }
+        };
+        xhrWish.send();
+
+        // update cart counter
+        var xhrCart = new XMLHttpRequest();
+        xhrCart.open('GET', 'http://localhost:3000/cart/', true);
+        xhrCart.setRequestHeader('Authorization', 'Bearer ' + userToken);
+        xhrCart.onreadystatechange = function () {
+            if (xhrCart.readyState === 4 && xhrCart.status === 200) {
+                const cart = JSON.parse(xhrCart.responseText);
+                let filteredCart = cart;
+                if (user && user.email) {
+                    filteredCart = cart.filter(item => item.userEmail === user.email);
+                }
+                if (cartNum) cartNum.innerText = filteredCart.reduce((sum, item) => sum + (item.quantity || 1), 0);
+            }
+        };
+        xhrCart.send();
+    }
+
+    updateNavbarCounters();
 
     //functions for navbar
 

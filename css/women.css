@@ -6,6 +6,12 @@
     justify-content: center;
 }
 
+
+#cart-container {
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+}
+
 .category-header {
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
         url('https://source.unsplash.com/1200x400/?fashion,women,model');

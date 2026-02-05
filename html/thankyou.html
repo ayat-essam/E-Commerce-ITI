@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Thank You | FashionHub</title>
+    <link href="../css/HomePage.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .thankyou-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 60vh;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .thankyou-box {
+            background: #fff;
+            padding: 60px 40px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            width: 100%;
+        }
+
+        body.dark-mode .thankyou-box {
+            background: #343a40;
+            color: #f8f9fa;
+        }
+
+        .thankyou-icon {
+            font-size: 80px;
+            color: #28a745;
+            margin-bottom: 20px;
+            animation: bounceIn 0.6s ease-out;
+        }
+
+        @keyframes bounceIn {
+            0% {
+                transform: scale(0);
+                opacity: 0;
+            }
+
+            50% {
+                transform: scale(1.1);
+            }
+
+            100% {
+                transform: scale(1);
+                opacity: 1;
+            }
+        }
+
+        .thankyou-box h1 {
+            font-size: 32px;
+            margin: 20px 0 10px;
+            color: #333;
+        }
+
+        body.dark-mode .thankyou-box h1 {
+            color: #f8f9fa;
+        }
+
+        .thankyou-box p {
+            font-size: 16px;
+            color: #666;
+            line-height: 1.6;
+            margin: 15px 0;
+        }
+
+        body.dark-mode .thankyou-box p {
+            color: #ccc;
+        }
+
+        .order-details {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 30px 0;
+            text-align: left;
+        }
+
+        body.dark-mode .order-details {
+            background: #454d55;
+        }
+
+        .detail-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        body.dark-mode .detail-row {
+            border-bottom: 1px solid #666;
+        }
+
+        .detail-row:last-child {
+            border-bottom: none;
+        }
+
+        .detail-label {
+            font-weight: 600;
+            color: #333;
+        }
+
+        body.dark-mode .detail-label {
+            color: #f8f9fa;
+        }
+
+        .detail-value {
+            color: #666;
+        }
+
+        body.dark-mode .detail-value {
+            color: #ccc;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            padding: 12px 30px;
+            border: none;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .btn-primary {
+            background: #007bff;
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #0056b3;
+        }
+
+        .btn-secondary {
+            background: #e0e0e0;
+            color: #333;
+        }
+
+        body.dark-mode .btn-secondary {
+            background: #555;
+            color: #f8f9fa;
+        }
+
+        .btn-secondary:hover {
+            background: #c0c0c0;
+        }
+
+        body.dark-mode .btn-secondary:hover {
+            background: #666;
+        }
+
+        @media (max-width: 600px) {
+            .thankyou-box {
+                padding: 40px 20px;
+            }
+
+            .thankyou-icon {
+                font-size: 60px;
+            }
+
+            .thankyou-box h1 {
+                font-size: 24px;
+            }
+
+            .buttons {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div class="navbar">
+            <div class="logo">FashionHub</div>
+            <ul class="nav-links">
+                <li><a href="HomePage.html">Home</a></li>
+                <li><a href="woman.html">Women</a></li>
+                <li><a href="men.html">Men</a></li>
+                <li><a href="kids.html">Kids</a></li>
+            </ul>
+            <div class="right-section">
+                <i class="fas fa-user icon"></i>
+                <i class="fas fa-shopping-cart icon" onclick="goToCart()"><span class="cart-counter"
+                        id="cart-counter">0</span></i>
+                <i class="fas fa-heart icon" onclick="goToWishlist()"><span class="wishlist-counter"
+                        id="wishlist-counter">0</span></i>
+                <i class="fas fa-moon icon" id="dark-mode-toggle"></i>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container thankyou-container">
+        <div class="thankyou-box">
+            <div class="thankyou-icon">
+                <i class="fas fa-check-circle"></i>
+            </div>
+            <h1>Thank You!</h1>
+            <p>Your order has been placed successfully.</p>
+            <p>We appreciate your purchase and will send you a confirmation email shortly.</p>
+
+            <div class="order-details">
+                <div class="detail-row">
+                    <span class="detail-label">Order ID:</span>
+                    <span class="detail-value" id="order-id">-</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Order Date:</span>
+                    <span class="detail-value" id="order-date">-</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Total Amount:</span>
+                    <span class="detail-value" id="order-total">$0.00</span>
+                </div>
+                <div class="detail-row">
+                    <span class="detail-label">Status:</span>
+                    <span class="detail-value" id="order-status">-</span>
+                </div>
+            </div>
+
+            <div id="order-items-container" style="display: none;">
+                <div style="margin: 20px 0; border-top: 1px solid #e0e0e0; padding-top: 20px;">
+                    <h3 style="color: #333; margin-bottom: 15px; font-size: 16px;">Order Items</h3>
+                    <div id="order-items-list"></div>
+                </div>
+            </div>
+
+            <p style="font-size: 14px; color: #999;">A confirmation email has been sent to your email address.</p>
+
+            <div class="buttons">
+                <button class="btn btn-primary" onclick="goToHome()">Continue Shopping</button>
+                <button class="btn btn-secondary" onclick="goTomyorders()">View My Orders</button>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer-links">
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
+                <a href="#faq">FAQ</a>
+                <a href="#shipping">Shipping & Returns</a>
+                <a href="#privacy">Privacy Policy</a>
+            </div>
+            <div class="social-icons">
+                <i class="fab fa-facebook icon"></i>
+                <i class="fab fa-instagram icon"></i>
+                <i class="fab fa-twitter icon"></i>
+                <i class="fab fa-pinterest icon"></i>
+            </div>
+            <div class="payment-icons">
+                <i class="fab fa-cc-visa icon"></i>
+                <i class="fab fa-cc-mastercard icon"></i>
+                <i class="fab fa-cc-paypal icon"></i>
+                <i class="fab fa-cc-apple-pay icon"></i>
+            </div>
+            <p>&copy; 2024 FashionHub. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+        const cartNum = document.getElementById('cart-counter');
+        const wishNum = document.getElementById('wishlist-counter');
+
+        function updateNavbarCounters() {
+            var xhrWish = new XMLHttpRequest();
+            xhrWish.open('GET', 'http://localhost:3000/wishlist/', true);
+            xhrWish.onreadystatechange = function () {
+                if (xhrWish.readyState === 4 && xhrWish.status === 200) {
+                    const wishlist = JSON.parse(xhrWish.responseText);
+                    if (wishNum) wishNum.innerText = wishlist.length;
+                }
+            };
+            xhrWish.send();
+
+            var xhrCart = new XMLHttpRequest();
+            xhrCart.open('GET', 'http://localhost:3000/cart/', true);
+            xhrCart.onreadystatechange = function () {
+                if (xhrCart.readyState === 4 && xhrCart.status === 200) {
+                    const cart = JSON.parse(xhrCart.responseText);
+                    if (cartNum) cartNum.innerText = cart.reduce((sum, item) => sum + (item.quantity || 1), 0);
+                }
+            };
+            xhrCart.send();
+        }
+
+        function displayOrderInfo() {
+            const params = new URLSearchParams(window.location.search);
+            const orderId = params.get('orderId');
+            const orderDate = params.get('orderDate');
+            const orderTotal = params.get('orderTotal');
+
+            if (orderId) {
+                document.getElementById('order-id').innerText = orderId;
+                // Fetch order status from db.json
+                fetchOrderStatus(orderId);
+            }
+            if (orderDate) {
+                const date = new Date(orderDate);
+                document.getElementById('order-date').innerText = date.toLocaleDateString() + ' ' + date.toLocaleTimeString();
+            }
+            if (orderTotal) {
+                document.getElementById('order-total').innerText = '$' + parseFloat(orderTotal).toFixed(2);
+            }
+        }
+
+        function fetchOrderStatus(orderId) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', 'http://localhost:3000/orders/' + orderId, true);
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4) {
+                    if (xhr.status === 200) {
+                        try {
+                            const order = JSON.parse(xhr.responseText);
+                            if (order.status) {
+                                document.getElementById('order-status').innerText = order.status.charAt(0).toUpperCase() + order.status.slice(1);
+                            } else {
+                                document.getElementById('order-status').innerText = 'Pending';
+                            }
+
+                            // Display order items if they exist
+                            if (order.cartItems && order.cartItems.length > 0) {
+                                displayOrderItems(order.cartItems);
+                            }
+                        } catch (e) {
+                            console.log('Error parsing order:', e);
+                            document.getElementById('order-status').innerText = 'Pending';
+                        }
+                    } else {
+                        console.log('Error fetching order. Status code:', xhr.status);
+                        document.getElementById('order-status').innerText = 'Pending';
+                    }
+                }
+            };
+            xhr.onerror = function () {
+                console.log('Network error while fetching order');
+                document.getElementById('order-status').innerText = 'Pending';
+            };
+            xhr.send();
+        }
+
+        function displayOrderItems(cartItems) {
+            const itemsContainer = document.getElementById('order-items-container');
+            const itemsList = document.getElementById('order-items-list');
+
+            itemsList.innerHTML = '';
+
+            cartItems.forEach(item => {
+                const productTitle = item.product?.title || item.title || 'Product';
+                const itemPrice = parseFloat(item.price || item.product?.price || 0);
+                const itemCount = parseInt(item.count || 1);
+                const itemTotal = itemPrice * itemCount;
+
+                const itemRow = document.createElement('div');
+                itemRow.style.cssText = 'display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #f0f0f0;';
+                itemRow.innerHTML = `
+                    <div>
+                        <div style="font-weight: 600; color: #333;">${productTitle}</div>
+                        <div style="font-size: 12px; color: #999;">Qty: ${itemCount}</div>
+                    </div>
+                    <div style="text-align: right;">
+                        <div style="font-weight: 600; color: #333;">$${itemTotal.toFixed(2)}</div>
+                        <div style="font-size: 12px; color: #999;">$${itemPrice.toFixed(2)} each</div>
+                    </div>
+                `;
+                itemsList.appendChild(itemRow);
+            });
+
+            itemsContainer.style.display = 'block';
+        }
+
+        function goToHome() {
+            window.location.href = 'HomePage.html';
+        }
+
+        function goTomyorders() {
+            window.location.href = 'myorders.html';
+        }
+
+        function goToCart() {
+            window.location.href = 'cart.html';
+        }
+
+        function goToWishlist() {
+            window.location.href = 'wishlist.html';
+        }
+        //////////////
+        // update wishlist counter
+
+        function updateNavbarCounters() {
+            const userData = localStorage.getItem('userData');
+            const userToken = localStorage.getItem('userToken');
+            const user = userData ? JSON.parse(userData) : null;
+
+            var xhrWish = new XMLHttpRequest();
+            xhrWish.open('GET', 'http://localhost:3000/wishlist/', true);
+            xhrWish.setRequestHeader('Authorization', 'Bearer ' + userToken);
+            xhrWish.onreadystatechange = function () {
+                if (xhrWish.readyState === 4 && xhrWish.status === 200) {
+                    const wishlist = JSON.parse(xhrWish.responseText);
+                    let filteredWishlist = wishlist;
+                    if (user && user.email) {
+                        filteredWishlist = wishlist.filter(item => item.userEmail === user.email);
+                    }
+                    if (wishNum) wishNum.innerText = filteredWishlist.length;
+                }
+            };
+            xhrWish.send();
+
+            // update cart counter
+            var xhrCart = new XMLHttpRequest();
+            xhrCart.open('GET', 'http://localhost:3000/cart/', true);
+            xhrCart.setRequestHeader('Authorization', 'Bearer ' + userToken);
+            xhrCart.onreadystatechange = function () {
+                if (xhrCart.readyState === 4 && xhrCart.status === 200) {
+                    const cart = JSON.parse(xhrCart.responseText);
+                    let filteredCart = cart;
+                    if (user && user.email) {
+                        filteredCart = cart.filter(item => item.userEmail === user.email);
+                    }
+                    if (cartNum) cartNum.innerText = filteredCart.reduce((sum, item) => sum + (item.quantity || 1), 0);
+                }
+            };
+            xhrCart.send();
+        }
+
+        updateNavbarCounters();
+
+        // Dark mode
+        const darkModeToggle = document.getElementById('dark-mode-toggle');
+        if (darkModeToggle) {
+            darkModeToggle.addEventListener('click', function () {
+                document.body.classList.toggle('dark-mode');
+                localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+            });
+
+            if (localStorage.getItem('darkMode') === 'true') {
+                document.body.classList.add('dark-mode');
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function () {
+            updateNavbarCounters();
+            displayOrderInfo();
+        });
+    </script>
+</body>
+
+</html>
